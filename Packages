@@ -87,6 +87,1183 @@ Size: 1056069
 MD5Sum: 9ebb0228eae526643ca412e0bf268de8
 Description:  A multi-platform eMule-like ed2k client
 
+Package: asterisk18-app-alarmreceiver
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 10149
+Filename: asterisk18-app-alarmreceiver_1.8.10.1-4_ib42x0.ipk
+Size: 10957
+MD5Sum: 0d2c02f8d90ee6af877317de2d65ac5f
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Central Station Alarm receiver for Ademco Contact ID in Asterisk.
+
+Package: asterisk18-app-authenticate
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3707
+Filename: asterisk18-app-authenticate_1.8.10.1-4_ib42x0.ipk
+Size: 4495
+MD5Sum: 5659bef4297257195106d5193df41409
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for executing arbitrary authenticate commands in Asterisk.
+
+Package: asterisk18-app-chanisavail
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3301
+Filename: asterisk18-app-chanisavail_1.8.10.1-4_ib42x0.ipk
+Size: 4079
+MD5Sum: 197fb971e873c9656a399c8216dd0130
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for checking if a channel is available in Asterisk.
+
+Package: asterisk18-app-chanspy
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 10776
+Filename: asterisk18-app-chanspy_1.8.10.1-4_ib42x0.ipk
+Size: 11585
+MD5Sum: 983524a83d3b8d1e35580d2f2907fa64
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for listening in on any channel in Asterisk.
+
+Package: asterisk18-app-directed-pickup
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4259
+Filename: asterisk18-app-directed-pickup_1.8.10.1-4_ib42x0.ipk
+Size: 5036
+MD5Sum: 19af42b7e603174b4cceb091d15ec12b
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for directed call pickup in Asterisk.
+
+Package: asterisk18-app-disa
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 5377
+Filename: asterisk18-app-disa_1.8.10.1-4_ib42x0.ipk
+Size: 6152
+MD5Sum: 1e471d8234af68ceb7e4c4de65d1b9c0
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Direct Inward System Access in Asterisk.
+
+Package: asterisk18-app-exec
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3530
+Filename: asterisk18-app-exec_1.8.10.1-4_ib42x0.ipk
+Size: 4294
+MD5Sum: dffe5a3c678ceaf29c777728cfa9469f
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for application execution in Asterisk.
+
+Package: asterisk18-app-minivm
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 31167
+Filename: asterisk18-app-minivm_1.8.10.1-4_ib42x0.ipk
+Size: 31918
+MD5Sum: e04d40f15b5cf7dcc879f1d001cdd935
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support a voicemail system in small building blocks working together based on the Comedian Mail voicemail system in Asterisk.
+
+Package: asterisk18-app-mixmonitor
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 7957
+Filename: asterisk18-app-mixmonitor_1.8.10.1-4_ib42x0.ipk
+Size: 8776
+MD5Sum: 842f16a08583b87e6ad362df16e55278
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support record a call and mix the audio during the recording in Asterisk.
+
+Package: asterisk18-app-originate
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3594
+Filename: asterisk18-app-originate_1.8.10.1-4_ib42x0.ipk
+Size: 4388
+MD5Sum: 78eade7110294d2b8228d4ff5a6b4def
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support originating an outbound call and connecting it to a specified extension or application in Asterisk.
+
+Package: asterisk18-app-playtones
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2390
+Filename: asterisk18-app-playtones_1.8.10.1-4_ib42x0.ipk
+Size: 3198
+MD5Sum: f15c38f5510463179708b647087dad97
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support play a tone list in Asterisk.
+
+Package: asterisk18-app-read
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 5065
+Filename: asterisk18-app-read_1.8.10.1-4_ib42x0.ipk
+Size: 5835
+MD5Sum: 72b404d3f04148897369086b7b2d1b7e
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support a trivial application to read a variable in Asterisk.
+
+Package: asterisk18-app-readexten
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4389
+Filename: asterisk18-app-readexten_1.8.10.1-4_ib42x0.ipk
+Size: 5188
+MD5Sum: 6abe0c32c5a2d7b52accfd5cf49e7b32
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support a trivial application to read an extension into a variable in Asterisk.
+
+Package: asterisk18-app-record
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 5100
+Filename: asterisk18-app-record_1.8.10.1-4_ib42x0.ipk
+Size: 5870
+MD5Sum: e4877659dffa24e4f44fcf5e4de30ba4
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support to record a sound file in Asterisk.
+
+Package: asterisk18-app-sayunixtime
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2437
+Filename: asterisk18-app-sayunixtime_1.8.10.1-4_ib42x0.ipk
+Size: 3257
+MD5Sum: e468c16a4bacb33474d6d0d60fe4b4d4
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support an application to say Unix time in Asterisk.
+
+Package: asterisk18-app-senddtmf
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2941
+Filename: asterisk18-app-senddtmf_1.8.10.1-4_ib42x0.ipk
+Size: 3754
+MD5Sum: 37caa754d3dddd5fec358f6fac117db0
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Sends arbitrary DTMF digits in Asterisk.
+
+Package: asterisk18-app-setcallerid
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2367
+Filename: asterisk18-app-setcallerid_1.8.10.1-4_ib42x0.ipk
+Size: 3174
+MD5Sum: fe08223f67edd76730e1a41519cdee15
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for setting callerid in Asterisk.
+
+Package: asterisk18-app-sms
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 18022
+Filename: asterisk18-app-sms_1.8.10.1-4_ib42x0.ipk
+Size: 18851
+MD5Sum: 10651bcefdddd090c2ea014fad1ae889
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support SMS support (ETSI ES 201 912 protocol 1) in Asterisk.
+
+Package: asterisk18-app-stack
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, asterisk18-res-agi
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 7770
+Filename: asterisk18-app-stack_1.8.10.1-4_ib42x0.ipk
+Size: 8630
+MD5Sum: 08470c482ba2aa687e256e5df07cea1d
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support  stack applications Gosub Return etc. in Asterisk.
+
+Package: asterisk18-app-system
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2927
+Filename: asterisk18-app-system_1.8.10.1-4_ib42x0.ipk
+Size: 3737
+MD5Sum: 64e23b701ced35eb04e21d97fbcf5cfc
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for executing system commands in Asterisk.
+
+Package: asterisk18-app-talkdetect
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4401
+Filename: asterisk18-app-talkdetect_1.8.10.1-4_ib42x0.ipk
+Size: 5163
+MD5Sum: ce1134e6c6ca098718a59357b2815743
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support for file playback with audio detect in Asterisk.
+
+Package: asterisk18-app-verbose
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3019
+Filename: asterisk18-app-verbose_1.8.10.1-4_ib42x0.ipk
+Size: 3833
+MD5Sum: c62aa561161ea9047ea3057c2dbde4d8
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Verbose logging application in Asterisk.
+
+Package: asterisk18-app-waituntil
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3497
+Filename: asterisk18-app-waituntil_1.8.10.1-4_ib42x0.ipk
+Size: 4265
+MD5Sum: f30efdee0badbb2185e30bfeff035e00
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support sleeping until the given epoch in Asterisk.
+
+Package: asterisk18-app-while
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4408
+Filename: asterisk18-app-while_1.8.10.1-4_ib42x0.ipk
+Size: 5168
+MD5Sum: ebfb39bb1c7287b8ba9fa218622633ba
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support a while loop implementation in Asterisk.
+
+Package: asterisk18-cdr
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, libmysqlclient, libsqlite3, libsqlite2
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 59914
+Filename: asterisk18-cdr_1.8.10.1-4_ib42x0.ipk
+Size: 60667
+MD5Sum: 05dc4b992cbdea7d747c12ae0dcc8c02
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides Call Detail Record support to
+ Asterisk.
+
+Package: asterisk18-chan-agent
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 26706
+Filename: asterisk18-chan-agent_1.8.10.1-4_ib42x0.ipk
+Size: 27461
+MD5Sum: e54a5fb2e16e2bcbb3233c5d039cc57b
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support  an implementation of agents proxy channel in Asterisk.
+
+Package: asterisk18-chan-gtalk
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, libiksemel
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 73359
+Filename: asterisk18-chan-gtalk_1.8.10.1-4_ib42x0.ipk
+Size: 74022
+MD5Sum: 95af8084245237401a69bf7b0f510770
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides the channel chan_gtalk and res_jabber for GTalk
+ support to Asterisk.
+
+Package: asterisk18-chan-iax2
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, asterisk18-res-crypto
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 151332
+Filename: asterisk18-chan-iax2_1.8.10.1-4_ib42x0.ipk
+Size: 151967
+MD5Sum: 761695b99842c707436b153dd8e7b60f
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides IAX support to
+ Asterisk.
+
+Package: asterisk18-chan-local
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 11419
+Filename: asterisk18-chan-local_1.8.10.1-4_ib42x0.ipk
+Size: 12212
+MD5Sum: 39ca4225ed2e016ab13b87c3d48e3d34
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support  an implementation of local proxy channel in Asterisk.
+
+Package: asterisk18-chan-mgcp
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 48442
+Filename: asterisk18-chan-mgcp_1.8.10.1-4_ib42x0.ipk
+Size: 49168
+MD5Sum: 28413309c230c6c6354e3693f23938ac
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides the channel chan_mgcp support to Asterisk.
+
+Package: asterisk18-chan-mobile
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, bluez-libs
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 35267
+Filename: asterisk18-chan-mobile_1.8.10.1-4_ib42x0.ipk
+Size: 36091
+MD5Sum: 288d766184fffd0e71ef6104758585a0
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides the channel chan_mobile support to Asterisk.
+
+Package: asterisk18-chan-skinny
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 58281
+Filename: asterisk18-chan-skinny_1.8.10.1-4_ib42x0.ipk
+Size: 58865
+MD5Sum: d629de2477da25ca2e8348f1324bfe93
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides the channel chan_skinny support to Asterisk.
+
+Package: asterisk18-codec-a-mu
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2623
+Filename: asterisk18-codec-a-mu_1.8.10.1-4_ib42x0.ipk
+Size: 3399
+MD5Sum: 366605037dbf67d2bd49d8b982f1f057
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support translation between alaw and ulaw codecs in Asterisk.
+
+Package: asterisk18-codec-alaw
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2644
+Filename: asterisk18-codec-alaw_1.8.10.1-4_ib42x0.ipk
+Size: 3457
+MD5Sum: 355903eb068c6125aae62b0eaae225ca
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support translation between signed linear and alaw codecs in Asterisk.
+
+Package: asterisk18-codec-g722
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 5696
+Filename: asterisk18-codec-g722_1.8.10.1-4_ib42x0.ipk
+Size: 6498
+MD5Sum: 36df357c14a02c4283f9efc8327c6ef3
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support a high bit rate 48/56/64Kbps ITU standard codec in Asterisk.
+
+Package: asterisk18-codec-g726
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4223
+Filename: asterisk18-codec-g726_1.8.10.1-4_ib42x0.ipk
+Size: 5010
+MD5Sum: 38ed4be8ebb82054942b2471d64a4a18
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support translation between signed linear and ITU G.726-32kbps codecs in Asterisk.
+
+Package: asterisk18-curl
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, libcurl
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 10319
+Filename: asterisk18-curl_1.8.10.1-4_ib42x0.ipk
+Size: 11127
+MD5Sum: 54124f498e7bf5197618008b5dc5a01b
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides CURL
+ support to Asterisk.
+
+Package: asterisk18-format-g726
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3655
+Filename: asterisk18-format-g726_1.8.10.1-4_ib42x0.ipk
+Size: 4446
+MD5Sum: f7d88a5d528cf6ce995e4481ebd4ce1a
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for headerless G.726 16/24/32/40kbps data format in Asterisk.
+
+Package: asterisk18-format-g729
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4877
+Filename: asterisk18-format-g729_1.8.10.1-4_ib42x0.ipk
+Size: 5643
+MD5Sum: 2d413abff4a71f5713d7e5d912f8bb20
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for raw headerless G729 data in Asterisk.
+
+Package: asterisk18-format-sln16
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2949
+Filename: asterisk18-format-sln16_1.8.10.1-4_ib42x0.ipk
+Size: 3761
+MD5Sum: e3a30b51eebfaaabba44d703d170e759
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for Raw slinear 16 format in Asterisk.
+
+Package: asterisk18-format-sln
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2933
+Filename: asterisk18-format-sln_1.8.10.1-4_ib42x0.ipk
+Size: 3742
+MD5Sum: a0c70d35aafd513aad884aa378acc27f
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for raw slinear format in Asterisk.
+
+Package: asterisk18-func-blacklist
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2468
+Filename: asterisk18-func-blacklist_1.8.10.1-4_ib42x0.ipk
+Size: 3289
+MD5Sum: 7ebc51802a042df852e16d7f2bcf920a
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support looking up the callerid number and see if it is blacklisted in Asterisk.
+
+Package: asterisk18-func-channel
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 7798
+Filename: asterisk18-func-channel_1.8.10.1-4_ib42x0.ipk
+Size: 8606
+MD5Sum: 71b155c8a3bb2f6348ca3be58325a0b3
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Channel info dialplan function in Asterisk.
+
+Package: asterisk18-func-cut
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4178
+Filename: asterisk18-func-cut_1.8.10.1-4_ib42x0.ipk
+Size: 4940
+MD5Sum: 29add1013aa4c6e2356c9b28fdd02a95
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support CUT function in Asterisk.
+
+Package: asterisk18-func-db
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3391
+Filename: asterisk18-func-db_1.8.10.1-4_ib42x0.ipk
+Size: 4168
+MD5Sum: cd23d4201f91a609bf6b4e38e7578428
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support functions for interaction with the database in Asterisk.
+
+Package: asterisk18-func-devstate
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4154
+Filename: asterisk18-func-devstate_1.8.10.1-4_ib42x0.ipk
+Size: 4956
+MD5Sum: a7c801292ea6a1401621330b6ee19fdc
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support functions for manually controlled blinky lights in Asterisk.
+
+Package: asterisk18-func-extstate
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2515
+Filename: asterisk18-func-extstate_1.8.10.1-4_ib42x0.ipk
+Size: 3333
+MD5Sum: 376b2505b17d67744e28f2b891a8fb8c
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support retrieving the state of a hinted extension for dialplan control in Asterisk.
+
+Package: asterisk18-func-global
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4062
+Filename: asterisk18-func-global_1.8.10.1-4_ib42x0.ipk
+Size: 4832
+MD5Sum: 488a01f3c5cbe384a524a722d43d06b6
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support global variable dialplan functions in Asterisk.
+
+Package: asterisk18-func-shell
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2502
+Filename: asterisk18-func-shell_1.8.10.1-4_ib42x0.ipk
+Size: 3303
+MD5Sum: 585e72b6eed2e4341c3eeed525163219
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for shell execution in Asterisk.
+
+Package: asterisk18-func-uri
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2353
+Filename: asterisk18-func-uri_1.8.10.1-4_ib42x0.ipk
+Size: 3167
+MD5Sum: 7a3260319d8397257418b541590b9871
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Encodes and decodes URI-safe strings in Asterisk.
+
+Package: asterisk18-func-vmcount
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 2377
+Filename: asterisk18-func-vmcount_1.8.10.1-4_ib42x0.ipk
+Size: 3187
+MD5Sum: aea26f86d9e8053e2a5d2d184f1a1cb9
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support a vmcount dialplan function in Asterisk.
+
+Package: asterisk18-mysql
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, libmysqlclient
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 46237
+Filename: asterisk18-mysql_1.8.10.1-4_ib42x0.ipk
+Size: 47100
+MD5Sum: 4c64f01565e88710faa027820e3f0da5
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides MySQL
+ support to Asterisk.
+
+Package: asterisk18-pbx-ael
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3972
+Filename: asterisk18-pbx-ael_1.8.10.1-4_ib42x0.ipk
+Size: 4741
+MD5Sum: 0a521f34d3b041d6954cd3e74f092c64
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for symbolic Asterisk Extension Logic in Asterisk.
+
+Package: asterisk18-pbx-spool
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 9381
+Filename: asterisk18-pbx-spool_1.8.10.1-4_ib42x0.ipk
+Size: 10176
+MD5Sum: e538ec003ec9a4b376941d6504aa3ef0
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support outgoing call spool support in Asterisk.
+
+Package: asterisk18-res-ael-share
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 44278
+Filename: asterisk18-res-ael-share_1.8.10.1-4_ib42x0.ipk
+Size: 45011
+MD5Sum: 6a7c36ead24fd00c6b62ce0af852775a
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for shareable AEL code mainly between internal and external modules in Asterisk.
+
+Package: asterisk18-res-agi
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 28472
+Filename: asterisk18-res-agi_1.8.10.1-4_ib42x0.ipk
+Size: 29177
+MD5Sum: e8172eb5b1372c3e69e83fbfa5c8cf10
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support support for the Asterisk Gateway Interface extension in Asterisk.
+
+Package: asterisk18-res-clioriginate
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 3842
+Filename: asterisk18-res-clioriginate_1.8.10.1-4_ib42x0.ipk
+Size: 4619
+MD5Sum: 64e5c1696a2542adcf8ca08e10f7b3a5
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Originate calls via the CLI in Asterisk.
+
+Package: asterisk18-res-crypto
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 7263
+Filename: asterisk18-res-crypto_1.8.10.1-4_ib42x0.ipk
+Size: 8109
+MD5Sum: 4d03283c7225e759bbd940e2f6dd31f2
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides support Cryptographic Signature capability in Asterisk.
+
+Package: asterisk18-res-fax-spandsp
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, asterisk18-res-fax, libspandsp
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 7898
+Filename: asterisk18-res-fax-spandsp_1.8.10.1-4_ib42x0.ipk
+Size: 8530
+MD5Sum: b8bf61e108a56b6c0a6ea7d89dcb49cf
+Description:  Spandsp T.38 and G.711 FAX Resource
+
+Package: asterisk18-res-fax
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18, asterisk18-res-timing-pthread
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 27756
+Filename: asterisk18-res-fax_1.8.10.1-4_ib42x0.ipk
+Size: 28470
+MD5Sum: 65eeb7157374efaecd635389b8921475
+Description:  Generic FAX Resource for FAX technology resource modules
+
+Package: asterisk18-res-musiconhold
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 19091
+Filename: asterisk18-res-musiconhold_1.8.10.1-4_ib42x0.ipk
+Size: 19898
+MD5Sum: 6fdb6eacfab8b17edc178dd07e8de3bb
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package provides Music On Hold support to
+ Asterisk.
+
+Package: asterisk18-res-timing-pthread
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 7766
+Filename: asterisk18-res-timing-pthread_1.8.10.1-4_ib42x0.ipk
+Size: 8409
+MD5Sum: 7c4c9a0111ab726ffd5685888befa8d1
+Description:  pthread Timing Interface
+
+Package: asterisk18-res-timing-timerfd
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 4526
+Filename: asterisk18-res-timing-timerfd_1.8.10.1-4_ib42x0.ipk
+Size: 5109
+MD5Sum: 5e152f1a80251ae176d76094bf8beb35
+Description:  Timerfd Timing Interface
+
+Package: asterisk18-sounds
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 1319071
+Filename: asterisk18-sounds_1.8.10.1-4_ib42x0.ipk
+Size: 1319860
+MD5Sum: 11f6c6cb33eab2ba10a9c08b2cceec72
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package contains sound files for Asterisk.
+
+Package: asterisk18-voicemail
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, asterisk18
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 615198
+Filename: asterisk18-voicemail_1.8.10.1-4_ib42x0.ipk
+Size: 615964
+MD5Sum: 53243a4a9fdd5b2922e49d7835aca0ea
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+ This package contains voicemail related modules for Asterisk.
+
+Package: asterisk18
+Version: 1.8.10.1-4
+Depends: libc, librt, libpthread, libopenssl, libncurses, libpopt, libpthread, zlib
+Source: feeds/packages/net/asterisk-1.8.x
+SourceFile: asterisk-1.8.10.1.tar.gz
+SourceURL: http://downloads.asterisk.org/pub/telephony/asterisk/releases/
+Section: net
+Architecture: ib42x0
+Installed-Size: 1077915
+Filename: asterisk18_1.8.10.1-4_ib42x0.ipk
+Size: 1076753
+MD5Sum: e65f78271967f92ca5ce043041ea4cdf
+Description:  Asterisk is a complete PBX in software. It provides all of the features
+ you would expect from a PBX and more. Asterisk does voice over IP in three
+ protocols, and can interoperate with almost all standards-based telephony
+ equipment using relatively inexpensive hardware.
+
 Package: attr
 Version: 2.4.46-1
 Depends: libc, librt, libpthread, libattr
@@ -1441,10 +2618,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 116766
+Installed-Size: 116765
 Filename: kmod-ath9k-common_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 115234
-MD5Sum: 97e17e7571009da06f3c447944dbc94c
+Size: 115296
+MD5Sum: 164b7399a4318811309ee38b6138bf5b
 Description:  Atheros 802.11n wireless devices (common code for ath9k and ath9k_htc)
 
 Package: kmod-ath9k-htc
@@ -1456,10 +2633,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 99208
+Installed-Size: 99206
 Filename: kmod-ath9k-htc_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 99583
-MD5Sum: 45f4525af51e22e8a14f2cf9a896187b
+Size: 99651
+MD5Sum: df8e2211a197347d7199c3311eff4348
 Description:  This module adds support for wireless adapters based on
  Atheros USB AR9271 and AR7010 family of chipsets.
 
@@ -1472,10 +2649,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 9356
+Installed-Size: 9353
 Filename: kmod-ath_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 10087
-MD5Sum: 432d01e311291ec545adbd150faedfb2
+Size: 10077
+MD5Sum: 85e19349a8ea8cf14927f910867930d7
 Description:  This module contains some common parts needed by Atheros Wireless drivers.
 
 Package: kmod-atm
@@ -1486,10 +2663,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 26006
+Installed-Size: 26005
 Filename: kmod-atm_3.8-rc5-1_ib42x0.ipk
-Size: 26646
-MD5Sum: e3c1ac8686cabf6e8bb229972bfb9810
+Size: 26641
+MD5Sum: e1f2e1ce6e962b736d3b217bb56ffd1d
 Description:  Kernel modules for ATM support
 
 Package: kmod-button-hotplug
@@ -1498,10 +2675,10 @@ Depends: kernel (=3.8-rc5-1-ib42x0)
 Source: package/system/button-hotplug
 Section: kernel
 Architecture: ib42x0
-Installed-Size: 2931
+Installed-Size: 2929
 Filename: kmod-button-hotplug_3.8-rc5-3_ib42x0.ipk
-Size: 3558
-MD5Sum: 327b32a6a93737c4825e3c137fff1132
+Size: 3555
+MD5Sum: 6f8074c797d6bc01cf8681b541a427ab
 Description:  Kernel module to generate button hotplug events
 
 Package: kmod-cfg80211
@@ -1515,8 +2692,8 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
 Installed-Size: 93757
 Filename: kmod-cfg80211_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 94376
-MD5Sum: a216a39b4541df8dcd80f3e6334fdd84
+Size: 94442
+MD5Sum: ee1c6e972121517b642c3809f17a2a9f
 Description:  cfg80211 is the Linux wireless LAN (802.11) configuration API.
 
 Package: kmod-crypto-aes
@@ -1527,10 +2704,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 103
+Installed-Size: 105
 Filename: kmod-crypto-aes_3.8-rc5-1_ib42x0.ipk
-Size: 646
-MD5Sum: 098c893765c9bbf3b71bed8538e2d86e
+Size: 648
+MD5Sum: 03b6afd555860f3ddf7024bbb6208a3e
 Description:  AES cipher CryptoAPI module
 
 Package: kmod-crypto-arc4
@@ -1541,10 +2718,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-crypto-arc4_3.8-rc5-1_ib42x0.ipk
-Size: 663
-MD5Sum: dfb3475c6cec486a2a63f400fac88628
+Size: 661
+MD5Sum: 3adf7ee13ebec70cd2e5771823256d4b
 Description:  ARC4 (RC4) cipher CryptoAPI module
 
 Package: kmod-crypto-authenc
@@ -1555,10 +2732,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4428
+Installed-Size: 4420
 Filename: kmod-crypto-authenc_3.8-rc5-1_ib42x0.ipk
-Size: 5104
-MD5Sum: 6a558d9bc8410d292018d6c0ca224801
+Size: 5090
+MD5Sum: 4d4c530b85a2bd67967fbc346ce6d8aa
 Description:  Combined mode wrapper for IPsec
 
 Package: kmod-crypto-cbc
@@ -1569,10 +2746,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-crypto-cbc_3.8-rc5-1_ib42x0.ipk
 Size: 663
-MD5Sum: 45c740d5459bffdd6495a577be9648ed
+MD5Sum: 42027bf93b2e913cb233648bedeee2f9
 Description:  Cipher Block Chaining CryptoAPI module
 
 Package: kmod-crypto-core
@@ -1585,8 +2762,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-crypto-core_3.8-rc5-1_ib42x0.ipk
-Size: 637
-MD5Sum: 75eefed8f5b2f9d426503d9df570dc84
+Size: 638
+MD5Sum: 990711527b2c9102b5a620c5d5e2445f
 Description:  Core CryptoAPI modules
 
 Package: kmod-crypto-crc32c
@@ -1599,8 +2776,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 104
 Filename: kmod-crypto-crc32c_3.8-rc5-1_ib42x0.ipk
-Size: 646
-MD5Sum: 6cc54c1c8deba64c780ddf27d5a34ced
+Size: 644
+MD5Sum: 0baa14d8f04be2bb96b7a07112a24f70
 Description:  CRC32c CRC module
 
 Package: kmod-crypto-deflate
@@ -1613,8 +2790,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-crypto-deflate_3.8-rc5-1_ib42x0.ipk
-Size: 661
-MD5Sum: f57fed34079c0ab54074dc959737b8df
+Size: 666
+MD5Sum: 26d1cf27415f04c5b3f72cb7f619a193
 Description:  Deflate compression CryptoAPI module
 
 Package: kmod-crypto-des
@@ -1625,10 +2802,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 105
+Installed-Size: 104
 Filename: kmod-crypto-des_3.8-rc5-1_ib42x0.ipk
-Size: 651
-MD5Sum: 2ff7a9e744e35146b46f584958ef89dc
+Size: 649
+MD5Sum: 2bf9f0fcd2419ab4db1f917be977b473
 Description:  DES/3DES cipher CryptoAPI module
 
 Package: kmod-crypto-ecb
@@ -1639,10 +2816,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 103
+Installed-Size: 105
 Filename: kmod-crypto-ecb_3.8-rc5-1_ib42x0.ipk
-Size: 662
-MD5Sum: 097ed9510625ff6bd5c8a3d0f1488b1c
+Size: 666
+MD5Sum: 975ebf4a4f347299bc34bf05e4a44967
 Description:  Electronic CodeBook CryptoAPI module
 
 Package: kmod-crypto-hash
@@ -1653,10 +2830,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-crypto-hash_3.8-rc5-1_ib42x0.ipk
-Size: 644
-MD5Sum: 377ba93be3d02b086058cfb8ccd08370
+Size: 647
+MD5Sum: 269e549a8f062d48a2ef7eedb6199e97
 Description:  CryptoAPI hash support
 
 Package: kmod-crypto-hmac
@@ -1667,10 +2844,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-crypto-hmac_3.8-rc5-1_ib42x0.ipk
-Size: 659
-MD5Sum: 350172c3c3e6c08f089e9c19b2d9f86c
+Size: 660
+MD5Sum: 47de83895671051f1b70e58797f8e8fb
 Description:  HMAC digest CryptoAPI module
 
 Package: kmod-crypto-iv
@@ -1683,8 +2860,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-crypto-iv_3.8-rc5-1_ib42x0.ipk
-Size: 671
-MD5Sum: 725b1fad98810c3b011cb2ff2e6443e4
+Size: 668
+MD5Sum: b7894edffbd8c68b643fe72df154300b
 Description:  CryptoAPI initialization vectors
 
 Package: kmod-crypto-manager
@@ -1695,10 +2872,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-crypto-manager_3.8-rc5-1_ib42x0.ipk
-Size: 657
-MD5Sum: cc6890b617a7be48cad755f7035f684a
+Size: 652
+MD5Sum: fd046adcfcf4a7a7e0ab7ddac4a778f9
 Description:  CryptoAPI algorithm manager
 
 Package: kmod-crypto-md5
@@ -1709,10 +2886,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-crypto-md5_3.8-rc5-1_ib42x0.ipk
-Size: 654
-MD5Sum: 106df069e0dd56201e8a65c9d6cfcfde
+Size: 653
+MD5Sum: c59150df4bbb86a1b5b0580d7b7c0a1d
 Description:  MD5 digest CryptoAPI module
 
 Package: kmod-crypto-rng
@@ -1725,8 +2902,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-crypto-rng_3.8-rc5-1_ib42x0.ipk
-Size: 653
-MD5Sum: 8e0fa54c3fd219bd0ecb07084b137ad6
+Size: 654
+MD5Sum: e9c84df9fa83121a1b9b38c67d68444e
 Description:  CryptoAPI random number generation
 
 Package: kmod-crypto-sha1
@@ -1739,8 +2916,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-crypto-sha1_3.8-rc5-1_ib42x0.ipk
-Size: 658
-MD5Sum: a23a8a1019dd23d45ee99c656c0fe5cc
+Size: 657
+MD5Sum: ad49718db5cc5482b8ba46706b09ab03
 Description:  SHA1 digest CryptoAPI module
 
 Package: kmod-crypto-user
@@ -1753,8 +2930,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 9696
 Filename: kmod-crypto-user_3.8-rc5-1_ib42x0.ipk
-Size: 10387
-MD5Sum: 71828ed735bea63be0882e0fa6861a62
+Size: 10386
+MD5Sum: c0c59585c2046de03868eb9194799717
 Description:  CryptoAPI userspace interface
 
 Package: kmod-crypto-wq
@@ -1765,10 +2942,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 105
+Installed-Size: 104
 Filename: kmod-crypto-wq_3.8-rc5-1_ib42x0.ipk
-Size: 652
-MD5Sum: ab987a8ec3fb994e30594858fae59cc9
+Size: 646
+MD5Sum: 6ccaf97b463ca0574c0ab3912210a313
 Description:  CryptoAPI work queue handling
 
 Package: kmod-eeprom-93cx6
@@ -1779,10 +2956,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 1962
+Installed-Size: 1961
 Filename: kmod-eeprom-93cx6_3.8-rc5-1_ib42x0.ipk
-Size: 2661
-MD5Sum: aa7e67897eaea29d15376a5929d66344
+Size: 2653
+MD5Sum: 284e13e7e85c9b7e82f1a637603d11cf
 Description:  Kernel module for EEPROM 93CX6 support
 
 Package: kmod-fs-ecryptfs
@@ -1791,10 +2968,10 @@ Depends: kernel (=3.8-rc5-1-ib42x0)
 Source: feeds/addpack/kmod-fs-ecryptfs
 Section: kernel
 Architecture: ib42x0
-Installed-Size: 44280
+Installed-Size: 44278
 Filename: kmod-fs-ecryptfs_3.8-rc5-1_ib42x0.ipk
-Size: 44929
-MD5Sum: 9718104001521d9203b76b72f6a0f79d
+Size: 44930
+MD5Sum: d852bfe9417d594861f7298e8ad86713
 Description:  Kernel module for eCrypt support
 
 Package: kmod-fs-exportfs
@@ -1805,10 +2982,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 105
+Installed-Size: 104
 Filename: kmod-fs-exportfs_3.8-rc5-1_ib42x0.ipk
 Size: 655
-MD5Sum: 419ecfe1899abe41fb6e9ac90bfef18d
+MD5Sum: 6394df419e880ace81517f4340be799e
 Description:  Kernel module for exportfs. Needed for some other modules.
 
 Package: kmod-fs-hfs
@@ -1821,8 +2998,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 27226
 Filename: kmod-fs-hfs_3.8-rc5-1_ib42x0.ipk
-Size: 27876
-MD5Sum: b6da06b9b764f7668e594275a2d4c144
+Size: 27881
+MD5Sum: 22606c4f977378f413333a3971ea6441
 Description:  Kernel module for HFS filesystem support
 
 Package: kmod-fs-hfsplus
@@ -1833,10 +3010,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 48627
+Installed-Size: 48624
 Filename: kmod-fs-hfsplus_3.8-rc5-1_ib42x0.ipk
-Size: 49291
-MD5Sum: e776db716d3879bb30c364fab1ab0d95
+Size: 49289
+MD5Sum: 0cf2d69d6d19155e6836b886e399c829
 Description:  Kernel module for HFS+ filesystem support
 
 Package: kmod-fs-isofs
@@ -1847,10 +3024,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 16887
+Installed-Size: 16889
 Filename: kmod-fs-isofs_3.8-rc5-1_ib42x0.ipk
-Size: 17570
-MD5Sum: 95d6f565468bd3c8c1a950db66ffbb52
+Size: 17576
+MD5Sum: 6686ad0c2c8bec2281c67833260637ee
 Description:  Kernel module for ISO9660 filesystem support
 
 Package: kmod-fs-nfs-common
@@ -1864,7 +3041,7 @@ Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-fs-nfs-common_3.8-rc5-1_ib42x0.ipk
 Size: 645
-MD5Sum: afeb51f314e43999b2008f1056fcd178
+MD5Sum: f51d4aa9b25df5a3adb77f8ed5174bdb
 Description:  Common NFS filesystem modules
 
 Package: kmod-fs-nfs
@@ -1875,10 +3052,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 105
+Installed-Size: 104
 Filename: kmod-fs-nfs_3.8-rc5-1_ib42x0.ipk
-Size: 651
-MD5Sum: 31bd2718d785b137f2d2ec6d5d15f9ff
+Size: 645
+MD5Sum: 61ccbe4de611e7e0113c402a620369a1
 Description:  Kernel module for NFS support
 
 Package: kmod-fs-nfsd
@@ -1891,8 +3068,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-fs-nfsd_3.8-rc5-1_ib42x0.ipk
-Size: 662
-MD5Sum: b283df8bd370657d4cd29ee0a7d81e02
+Size: 661
+MD5Sum: f15dcd5a7b8568f93266d33e94c7bf24
 Description:  Kernel module for NFS kernel server support
 
 Package: kmod-fs-udf
@@ -1903,10 +3080,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 46813
+Installed-Size: 46817
 Filename: kmod-fs-udf_3.8-rc5-1_ib42x0.ipk
-Size: 47406
-MD5Sum: 43725dc3ade5db64beaeb3217b08379f
+Size: 47414
+MD5Sum: 9737377af6619dd5eebbb395f1ccb354
 Description:  Kernel module for UDF filesystem support
 
 Package: kmod-fuse
@@ -1917,10 +3094,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 36112
+Installed-Size: 36103
 Filename: kmod-fuse_3.8-rc5-1_ib42x0.ipk
-Size: 36851
-MD5Sum: 1a9f4ae46b0effaba34bf120018cb510
+Size: 36826
+MD5Sum: 4a6356acdfcfc1cbe3232850eecc4122
 Description:  Kernel module for userspace filesystem support
 
 Package: kmod-gre
@@ -1931,10 +3108,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 12271
+Installed-Size: 12277
 Filename: kmod-gre_3.8-rc5-1_ib42x0.ipk
-Size: 12956
-MD5Sum: 1f0b9d5617e0610fe5b9bdd40978d1bc
+Size: 12955
+MD5Sum: 20b7c0e31c9017dd5c62f31fd59331fb
 Description:  Generic Routing Encapsulation support
 
 Package: kmod-input-core
@@ -1945,10 +3122,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 105
+Installed-Size: 103
 Filename: kmod-input-core_3.8-rc5-1_ib42x0.ipk
-Size: 653
-MD5Sum: 44dd9e960cfd7f18e8b3d6491a1c3fdc
+Size: 649
+MD5Sum: 60262b8f733c07a65b02543200ecc5f5
 Description:  Kernel modules for support of input device
 
 Package: kmod-ip6-tunnel
@@ -1959,10 +3136,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 10747
+Installed-Size: 10748
 Filename: kmod-ip6-tunnel_3.8-rc5-1_ib42x0.ipk
-Size: 11461
-MD5Sum: cff6cd3273034026164319e09e0dc09b
+Size: 11465
+MD5Sum: 4439af2cbb075b5087ae8a8171f873d2
 Description:  Kernel modules for IPv6-in-IPv6 and IPv4-in-IPv6 tunnelling
 
 Package: kmod-ipsec4
@@ -1973,10 +3150,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 13720
+Installed-Size: 13721
 Filename: kmod-ipsec4_3.8-rc5-1_ib42x0.ipk
-Size: 14458
-MD5Sum: 3a436579c00d6864720cbba8cb83c692
+Size: 14456
+MD5Sum: 8c2f51af17bae4899b35dd565e01291f
 Description:  Kernel modules for IPsec support in IPv4.
  Includes:
  - ah4
@@ -1997,8 +3174,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 14336
 Filename: kmod-ipsec6_3.8-rc5-1_ib42x0.ipk
-Size: 15077
-MD5Sum: 58712b04e8909cd52a017c701a1d29a5
+Size: 15071
+MD5Sum: 1a7928df298feab109c0234797e32ac2
 Description:  Kernel modules for IPsec support in IPv6.
  Includes:
  - ah6
@@ -2019,8 +3196,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 33469
 Filename: kmod-ipsec_3.8-rc5-1_ib42x0.ipk
-Size: 34315
-MD5Sum: c40f2358e01be4d0d2e7fdccf5cde5c1
+Size: 34319
+MD5Sum: 640525d61956090e5787d01a7a212ff2
 Description:  Kernel modules for IPsec support in both IPv4 and IPv6.
  Includes:
  - af_key
@@ -2035,10 +3212,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 2063
+Installed-Size: 2061
 Filename: kmod-iptunnel4_3.8-rc5-1_ib42x0.ipk
-Size: 2711
-MD5Sum: 79f25456ab7b30a82285f655e6233d50
+Size: 2706
+MD5Sum: cd11241e6313dadb65dcf9257593317b
 Description:  Kernel modules for IPv4 tunneling
 
 Package: kmod-iptunnel6
@@ -2049,10 +3226,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 2089
+Installed-Size: 2094
 Filename: kmod-iptunnel6_3.8-rc5-1_ib42x0.ipk
-Size: 2739
-MD5Sum: 5835e44d8b05a5a46cb476a4ceeecd17
+Size: 2752
+MD5Sum: 64ca988c4d9972600647133828705796
 Description:  Kernel modules for IPv6 tunneling
 
 Package: kmod-ipv6
@@ -2065,8 +3242,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 136914
 Filename: kmod-ipv6_3.8-rc5-1_ib42x0.ipk
-Size: 137462
-MD5Sum: 5e6774f71d1cfa844d47955ca34f03d2
+Size: 137456
+MD5Sum: 5aaed44cae983d0fbf6d0de60d6eb2b2
 Description:  Kernel modules for IPv6 support
 
 Package: kmod-iscsi-scst
@@ -2077,10 +3254,10 @@ SourceFile: scst-2.2.x-4725.tar.bz2
 SourceURL: https://scst.svn.sourceforge.net/svnroot/scst/branches/2.2.x
 Section: kernel
 Architecture: ib42x0
-Installed-Size: 39168
+Installed-Size: 39164
 Filename: kmod-iscsi-scst_3.8-rc5+2.2.x-4725-1_ib42x0.ipk
-Size: 39813
-MD5Sum: bae428afa3ddf520aa8c22922f4cd1f7
+Size: 39817
+MD5Sum: d6fd40cffd0cf3d98989364c2f1dc00f
 Description:  SCST iscsi support
 
 Package: kmod-lib-crc-ccitt
@@ -2091,10 +3268,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 1610
+Installed-Size: 1617
 Filename: kmod-lib-crc-ccitt_3.8-rc5-1_ib42x0.ipk
-Size: 2295
-MD5Sum: 84d9f01568521d5e34e32622433c0f1a
+Size: 2304
+MD5Sum: fb5e181798265f78f026f24b04c686eb
 Description:  Kernel module for CRC-CCITT support
 
 Package: kmod-lib-crc-itu-t
@@ -2105,10 +3282,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-lib-crc-itu-t_3.8-rc5-1_ib42x0.ipk
-Size: 656
-MD5Sum: 01d117095795edde8dff15cd97d697c3
+Size: 655
+MD5Sum: b202af1e9a1e302f11b74532445045ff
 Description:  Kernel module for CRC ITU-T V.41 support
 
 Package: kmod-lib-crc32c
@@ -2121,8 +3298,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-lib-crc32c_3.8-rc5-1_ib42x0.ipk
-Size: 654
-MD5Sum: 3f4763cb471a8c19670af0f7fa3766f3
+Size: 656
+MD5Sum: 2e95407d43499263d4c426cc39f987fa
 Description:  Kernel module for CRC32 support
 
 Package: kmod-lib-zlib
@@ -2135,8 +3312,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-lib-zlib_3.8-rc5-1_ib42x0.ipk
-Size: 634
-MD5Sum: 081ffd2a509ca0e3fb17bf38547ac84f
+Size: 632
+MD5Sum: 932d12de94f10cb6056d04159aa763f2
 Description:  Zlib support
 
 Package: kmod-mac80211
@@ -2148,10 +3325,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 160042
+Installed-Size: 160045
 Filename: kmod-mac80211_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 160728
-MD5Sum: d238fae31def85d0d53ab03d1a875b5f
+Size: 160745
+MD5Sum: bcc092e3e05a79bd102536bd6d8dc227
 Description:  Generic IEEE 802.11 Networking Stack (mac80211)
 
 Package: kmod-mppe
@@ -2162,10 +3339,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4468
+Installed-Size: 4470
 Filename: kmod-mppe_3.8-rc5-1_ib42x0.ipk
-Size: 5159
-MD5Sum: f96fd0f9993de09ce3366532fdb869d9
+Size: 5158
+MD5Sum: dcb38777669b05003aa32ce60607c10c
 Description:  Kernel modules for Microsoft PPP compression/encryption
 
 Package: kmod-nls-base
@@ -2178,8 +3355,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 104
 Filename: kmod-nls-base_3.8-rc5-1_ib42x0.ipk
-Size: 657
-MD5Sum: f38fe684715980e2e55c47f68951c229
+Size: 653
+MD5Sum: 2d447c61f8326ae81841dbdc428e6a2e
 Description:  Kernel module for NLS (Native Language Support)
 
 Package: kmod-nls-cp437
@@ -2190,10 +3367,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 104
+Installed-Size: 105
 Filename: kmod-nls-cp437_3.8-rc5-1_ib42x0.ipk
-Size: 672
-MD5Sum: 7a0f27f3d437452dcca329adfb4a7664
+Size: 669
+MD5Sum: 28d03df6cc70a9647f2546208ada48b9
 Description:  Kernel module for NLS Codepage 437 (United States, Canada)
 
 Package: kmod-nls-utf8
@@ -2207,7 +3384,7 @@ Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-nls-utf8_3.8-rc5-1_ib42x0.ipk
 Size: 649
-MD5Sum: f1dabe6bfb2f3876378cfe3ed48606fa
+MD5Sum: 9246d2252bbb30b77d730afc33407f21
 Description:  Kernel module for NLS UTF-8
 
 Package: kmod-oprofile
@@ -2218,10 +3395,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 11836
+Installed-Size: 11827
 Filename: kmod-oprofile_3.8-rc5-1_ib42x0.ipk
-Size: 12425
-MD5Sum: c5caaff87bad4ac1182fe495994fa92c
+Size: 12414
+MD5Sum: 9532705596ae4da8712c2d81477a4d3c
 Description:  Kernel module for support for oprofile system profiling.
 
 Package: kmod-p54-common
@@ -2233,10 +3410,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 18524
+Installed-Size: 18526
 Filename: kmod-p54-common_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 19270
-MD5Sum: cdc55fb838a559a2612d0f2ce2f1ecdf
+Size: 19272
+MD5Sum: 2e23856babdc8f567ab40b523ad0fb33
 Description:  Prism54 Drivers (COMMON)
 
 Package: kmod-p54-usb
@@ -2248,10 +3425,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 31831
+Installed-Size: 31835
 Filename: kmod-p54-usb_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 32642
-MD5Sum: 55e082c85d1a5abd7ce45d7f1fc8920c
+Size: 32650
+MD5Sum: 8d8124f66785a84e106e84dc4062dee0
 Description:  Prism54 Drivers (USB)
 
 Package: kmod-pata-gemini
@@ -2264,8 +3441,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 3297
 Filename: kmod-pata-gemini_3.8-rc5-1_ib42x0.ipk
-Size: 3851
-MD5Sum: ede31486457aaf4f1a8b64744a799c82
+Size: 3852
+MD5Sum: 99875ab4470c741aa2e86300135eb755
 Description:  PATA driver for gemini SoC
 
 Package: kmod-ppp
@@ -2276,10 +3453,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 22171
+Installed-Size: 22167
 Filename: kmod-ppp_3.8-rc5-1_ib42x0.ipk
-Size: 22852
-MD5Sum: 2b27f4087aaa5d3390921d92d656e8df
+Size: 22829
+MD5Sum: be591d27bdd1731c6e561b048a0cc6b8
 Description:  Kernel modules for PPP support
 
 Package: kmod-pppoa
@@ -2290,10 +3467,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3098
+Installed-Size: 3096
 Filename: kmod-pppoa_3.8-rc5-1_ib42x0.ipk
-Size: 3757
-MD5Sum: 190b5d8bad0dbf675879a2b380014550
+Size: 3759
+MD5Sum: 3b4d549aab8a44454b121504b9ae1ae3
 Description:  Kernel modules for PPPoA (PPP over ATM) support
 
 Package: kmod-pppoe
@@ -2304,10 +3481,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 6907
+Installed-Size: 6905
 Filename: kmod-pppoe_3.8-rc5-1_ib42x0.ipk
-Size: 7608
-MD5Sum: 702186dea064a3eeb17e5e52e203f4bf
+Size: 7609
+MD5Sum: 369b3a9ac56dd29bf9e55fb4a0594f37
 Description:  Kernel module for PPPoE (PPP over Ethernet) support
 
 Package: kmod-pppox
@@ -2318,10 +3495,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 1978
+Installed-Size: 1980
 Filename: kmod-pppox_3.8-rc5-1_ib42x0.ipk
-Size: 2681
-MD5Sum: 5b399561bedc776258f2507566d78eb6
+Size: 2674
+MD5Sum: a684aec2c42d88aeaacb52d62d2dfa85
 Description:  Kernel helper module for PPPoE and PPTP support
 
 Package: kmod-pptp
@@ -2332,10 +3509,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 5141
+Installed-Size: 5135
 Filename: kmod-pptp_3.8-rc5-1_ib42x0.ipk
-Size: 5783
-MD5Sum: 53e75131850ca1b6432203b9435c1139
+Size: 5776
+MD5Sum: bd584b34d902168bc0bffedb4e0f8e4b
 Description:  PPtP support
 
 Package: kmod-rt2500-usb
@@ -2347,10 +3524,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 10360
+Installed-Size: 10364
 Filename: kmod-rt2500-usb_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 11063
-MD5Sum: ad4a0211b3d30682839345c63282c944
+Size: 11069
+MD5Sum: c8f8b3617beeb403f86a8d34965bbd49
 Description:  Ralink Drivers for RT2x00 cards (RT2500 USB)
 
 Package: kmod-rt2x00-lib
@@ -2362,10 +3539,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 19994
+Installed-Size: 19996
 Filename: kmod-rt2x00-lib_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 20747
-MD5Sum: 3ae81c98e3e6594808932b4668154df2
+Size: 20740
+MD5Sum: 94f10e43ffc7048ab853bf16c36eb3d6
 Description:  Ralink Drivers for RT2x00 cards (LIB)
 
 Package: kmod-rt2x00-usb
@@ -2377,10 +3554,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 5858
+Installed-Size: 5859
 Filename: kmod-rt2x00-usb_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 6617
-MD5Sum: eb500edaabb465f779736b7b5df801e6
+Size: 6619
+MD5Sum: 8465af1a607939fe9b2139b93942fca4
 Description:  Ralink Drivers for RT2x00 cards (USB)
 
 Package: kmod-rt73-usb
@@ -2392,10 +3569,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 14740
+Installed-Size: 14733
 Filename: kmod-rt73-usb_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 15338
-MD5Sum: bbcccf6c4d85957d2d470f90a2bb4305
+Size: 15328
+MD5Sum: da93cec754866a24703495570f2edd35
 Description:  Ralink Drivers for RT2x00 cards (RT73 USB)
 
 Package: kmod-rtc-gemini
@@ -2406,10 +3583,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 1975
+Installed-Size: 1979
 Filename: kmod-rtc-gemini_3.8-rc5-1_ib42x0.ipk
-Size: 2647
-MD5Sum: 9b90090080a0e6ad180e0c7058e8f19f
+Size: 2651
+MD5Sum: 4780d9586a5f3a45ce118418628cc0bb
 Description:  Gemini RTC driver
 
 Package: kmod-rtl8187
@@ -2421,10 +3598,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 22614
+Installed-Size: 22613
 Filename: kmod-rtl8187_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 23301
-MD5Sum: 00a9635bb6c5ea6e20881273b421cd97
+Size: 23305
+MD5Sum: e311869df0fb7f83ff712f23ffa16e61
 Description:  Realtek Drivers for RTL818x devices (RTL8187 USB)
 
 Package: kmod-scst-vdisk
@@ -2435,10 +3612,10 @@ SourceFile: scst-2.2.x-4725.tar.bz2
 SourceURL: https://scst.svn.sourceforge.net/svnroot/scst/branches/2.2.x
 Section: kernel
 Architecture: ib42x0
-Installed-Size: 20473
+Installed-Size: 20470
 Filename: kmod-scst-vdisk_3.8-rc5+2.2.x-4725-1_ib42x0.ipk
-Size: 21112
-MD5Sum: e8f6a208d08a630b15bf63d0318659aa
+Size: 21110
+MD5Sum: 06630ee6e2c231420face7432ee359b1
 Description:  SCST vdisk support
 
 Package: kmod-scst
@@ -2451,8 +3628,8 @@ Section: kernel
 Architecture: ib42x0
 Installed-Size: 98347
 Filename: kmod-scst_3.8-rc5+2.2.x-4725-1_ib42x0.ipk
-Size: 98844
-MD5Sum: 99c07326ec498ebe65d85775c929b070
+Size: 98855
+MD5Sum: ab7a517351df97b5073ebe93e9ea1244
 Description:  SCST kernel module
 
 Package: kmod-sit
@@ -2465,8 +3642,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 9691
 Filename: kmod-sit_3.8-rc5-1_ib42x0.ipk
-Size: 10384
-MD5Sum: c41eeee8d835398637f678ed970a49de
+Size: 10385
+MD5Sum: 31148b77152801ec7a170f6ac4d9aa06
 Description:  Kernel modules for IPv6-in-IPv4 tunnelling
 
 Package: kmod-sound-core
@@ -2477,10 +3654,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 117519
+Installed-Size: 117523
 Filename: kmod-sound-core_3.8-rc5-1_ib42x0.ipk
-Size: 118152
-MD5Sum: a747072d8c8ef4914465d1ce77d89127
+Size: 118212
+MD5Sum: 90bd75a5f238db15f1bffa8ac179fd05
 Description:  Kernel modules for sound support
 
 Package: kmod-tun
@@ -2491,10 +3668,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 11773
+Installed-Size: 11770
 Filename: kmod-tun_3.8-rc5-1_ib42x0.ipk
-Size: 12480
-MD5Sum: 51e12a38664d4bcb261e8021eb81bafe
+Size: 12471
+MD5Sum: ee6da6f2014e002bd2b44cf39b326dc7
 Description:  Kernel support for the TUN/TAP tunneling device
 
 Package: kmod-usb-core
@@ -2507,8 +3684,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-usb-core_3.8-rc5-1_ib42x0.ipk
-Size: 648
-MD5Sum: 1a17b1d5d9bfae9fc44afe66383abbc3
+Size: 644
+MD5Sum: c93928205d6d575ec751139fde370f4a
 Description:  Kernel support for USB
 
 Package: kmod-usb-serial-ark3116
@@ -2519,10 +3696,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4780
+Installed-Size: 4778
 Filename: kmod-usb-serial-ark3116_3.8-rc5-1_ib42x0.ipk
-Size: 5463
-MD5Sum: cf626ec3cfe97363b8f0395e77528f7d
+Size: 5459
+MD5Sum: 1fefd4a9df65c34f340b4f32a012fe89
 Description:  Kernel support for ArkMicroChips ARK3116 USB-to-Serial converters
 
 Package: kmod-usb-serial-belkin
@@ -2533,10 +3710,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3745
+Installed-Size: 3740
 Filename: kmod-usb-serial-belkin_3.8-rc5-1_ib42x0.ipk
-Size: 4423
-MD5Sum: a9fa6115c18033980d6daae1a3e3555d
+Size: 4417
+MD5Sum: 0538eecdab50487cdcefa2a96c5e32f3
 Description:  Kernel support for Belkin USB-to-Serial converters
 
 Package: kmod-usb-serial-ch341
@@ -2547,10 +3724,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3791
+Installed-Size: 3790
 Filename: kmod-usb-serial-ch341_3.8-rc5-1_ib42x0.ipk
-Size: 4483
-MD5Sum: 06b3e491ce458238e66d972ee7c0c8ba
+Size: 4481
+MD5Sum: 6937aa6f9125506230e4247c1e08b9ee
 Description:  Kernel support for Winchiphead CH341 USB-to-Serial converters
 
 Package: kmod-usb-serial-cp210x
@@ -2561,10 +3738,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 5573
+Installed-Size: 5575
 Filename: kmod-usb-serial-cp210x_3.8-rc5-1_ib42x0.ipk
-Size: 6085
-MD5Sum: 5f0b2fb802691039b098b3e8e4b86cdb
+Size: 6093
+MD5Sum: f4eede45ae87238ed32f14fe621ad8b1
 Description:  Kernel support for Silicon Labs cp210x USB-to-Serial converters
 
 Package: kmod-usb-serial-cypress-m8
@@ -2575,10 +3752,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 6618
+Installed-Size: 6617
 Filename: kmod-usb-serial-cypress-m8_3.8-rc5-1_ib42x0.ipk
-Size: 7412
-MD5Sum: d55656a396dfb97d3afe75f1a389faed
+Size: 7411
+MD5Sum: 94eb1a49fb90f08fd4c8361d1a53a6dc
 Description:  Kernel support for devices with Cypress M8 USB to Serial chip
  (for example, the Delorme Earthmate LT-20 GPS)
  Supported microcontrollers in the CY4601 family are:
@@ -2594,8 +3771,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 19132
 Filename: kmod-usb-serial-ftdi_3.8-rc5-1_ib42x0.ipk
-Size: 18127
-MD5Sum: d08f8a0b86b20d2dfff2596f0895618c
+Size: 18104
+MD5Sum: c71a3bb8b827c27ab18f454233695f8d
 Description:  Kernel support for FTDI USB-to-Serial converters
 
 Package: kmod-usb-serial-ipw
@@ -2606,10 +3783,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 2266
+Installed-Size: 2271
 Filename: kmod-usb-serial-ipw_3.8-rc5-1_ib42x0.ipk
-Size: 2925
-MD5Sum: 1fb3d1c02e60c0acfeab6d2038732370
+Size: 2934
+MD5Sum: 5945d65219dcd7ed297ceb64f04d22cd
 Description:  Support for IPWireless 3G devices
 
 Package: kmod-usb-serial-keyspan
@@ -2620,10 +3797,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 9613
+Installed-Size: 9612
 Filename: kmod-usb-serial-keyspan_3.8-rc5-1_ib42x0.ipk
-Size: 10295
-MD5Sum: 754b373f8292cf09a1f8c14021754c01
+Size: 10288
+MD5Sum: 3567fd40cf47f424402b43d39e2b6eb2
 Description:  Kernel support for Keyspan USB-to-Serial devices
 
 Package: kmod-usb-serial-mct
@@ -2634,10 +3811,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4789
+Installed-Size: 4790
 Filename: kmod-usb-serial-mct_3.8-rc5-1_ib42x0.ipk
-Size: 5473
-MD5Sum: a4fd045ba60f39da2842b9ede0acec4f
+Size: 5478
+MD5Sum: a959128765619101e8857f3562713246
 Description:  Kernel support for Magic Control Technology USB-to-Serial converters
 
 Package: kmod-usb-serial-mos7720
@@ -2648,10 +3825,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 6091
+Installed-Size: 6089
 Filename: kmod-usb-serial-mos7720_3.8-rc5-1_ib42x0.ipk
-Size: 6789
-MD5Sum: 767f8a9d0e000b1b816980e094d148ec
+Size: 6792
+MD5Sum: 735b8d89fda39c8c084f218d862f0ef7
 Description:  Kernel support for Moschip MOS7720 USB-to-Serial converters
 
 Package: kmod-usb-serial-motorola-phone
@@ -2662,10 +3839,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 1299
+Installed-Size: 1297
 Filename: kmod-usb-serial-motorola-phone_3.8-rc5-1_ib42x0.ipk
-Size: 2001
-MD5Sum: 313dbd49212399736dcd243446b0408f
+Size: 1999
+MD5Sum: 5d3636aafb77ed5c8901c5a6d076928c
 Description:  Kernel support for Motorola usb phone
 
 Package: kmod-usb-serial-option
@@ -2676,10 +3853,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 13077
+Installed-Size: 13072
 Filename: kmod-usb-serial-option_3.8-rc5-1_ib42x0.ipk
-Size: 11741
-MD5Sum: 05d368a7a95d5592210d44f6b5452f10
+Size: 11737
+MD5Sum: fe1ec4fb9ded716c87f2ca6bf080c9e8
 Description:  Kernel support for Option HSDPA modems
 
 Package: kmod-usb-serial-oti6858
@@ -2690,10 +3867,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 5060
+Installed-Size: 5059
 Filename: kmod-usb-serial-oti6858_3.8-rc5-1_ib42x0.ipk
-Size: 5746
-MD5Sum: 05b6cbbe7133eb0f490524773454ba04
+Size: 5749
+MD5Sum: 476680db05bd4e7888bee9657a96dce5
 Description:  Kernel support for Ours Technology OTI6858 USB-to-Serial converters
 
 Package: kmod-usb-serial-pl2303
@@ -2704,10 +3881,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 6007
+Installed-Size: 6003
 Filename: kmod-usb-serial-pl2303_3.8-rc5-1_ib42x0.ipk
-Size: 6603
-MD5Sum: de017d4a30b69593fbcba3d98d066a68
+Size: 6592
+MD5Sum: f52f2290ee3dfdb0455cf255120a13d2
 Description:  Kernel support for Prolific PL2303 USB-to-Serial converters
 
 Package: kmod-usb-serial-sierrawireless
@@ -2720,8 +3897,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 5903
 Filename: kmod-usb-serial-sierrawireless_3.8-rc5-1_ib42x0.ipk
-Size: 6551
-MD5Sum: 2729b34735a167244d756823cd92ba5b
+Size: 6524
+MD5Sum: e063c8454f5f9cf1674547ab41509560
 Description:  Kernel support for Sierra Wireless devices
 
 Package: kmod-usb-serial-ti-usb
@@ -2732,10 +3909,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 9821
+Installed-Size: 9824
 Filename: kmod-usb-serial-ti-usb_3.8-rc5-1_ib42x0.ipk
-Size: 10540
-MD5Sum: 31d4a951e2d6119c1abdd2d63bbb22c3
+Size: 10545
+MD5Sum: e8a6f389431e59dc3eb9e935c1b8a919
 Description:  Kernel support for TI USB 3410/5052 devices
 
 Package: kmod-usb-serial-visor
@@ -2746,10 +3923,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4402
+Installed-Size: 4404
 Filename: kmod-usb-serial-visor_3.8-rc5-1_ib42x0.ipk
-Size: 5080
-MD5Sum: d0e4e39474f48f25d98c030ccb1b2f64
+Size: 5073
+MD5Sum: b80d43c33bbdfb6ff143bd13b5c07b6b
 Description:  Kernel support for Handspring Visor PDAs
 
 Package: kmod-usb-serial-wwan
@@ -2760,10 +3937,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4058
+Installed-Size: 4057
 Filename: kmod-usb-serial-wwan_3.8-rc5-1_ib42x0.ipk
-Size: 4729
-MD5Sum: ca19c0eb1906b27ea608c03211869a2d
+Size: 4730
+MD5Sum: 75e45b597cb18cf67a29bf70b3232324
 Description:  Kernel support for USB GSM and CDMA modems
 
 Package: kmod-usb-serial
@@ -2776,8 +3953,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 105
 Filename: kmod-usb-serial_3.8-rc5-1_ib42x0.ipk
-Size: 660
-MD5Sum: b0df340c5effdf3ea68eccb248f6f2e7
+Size: 659
+MD5Sum: bf4439a438fe64eeb8306f825e6349f2
 Description:  Kernel support for USB-to-Serial converters
 
 Package: kmod-usbip-client
@@ -2788,10 +3965,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 8472
+Installed-Size: 8479
 Filename: kmod-usbip-client_3.8-rc5-1_ib42x0.ipk
-Size: 9171
-MD5Sum: 5e1a8a67c3d35064ec295433b148db68
+Size: 9175
+MD5Sum: 61e066d1c4d09a2d3da8d3eccf67e818
 Description:  USB-over-IP client driver
 
 Package: kmod-usbip-server
@@ -2802,10 +3979,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 8473
+Installed-Size: 8479
 Filename: kmod-usbip-server_3.8-rc5-1_ib42x0.ipk
-Size: 9166
-MD5Sum: 17bb549bb7de01d74907af024b91e9b0
+Size: 9176
+MD5Sum: baa9e2d515344cd3bf87cd4be3406687
 Description:  USB-over-IP host driver
 
 Package: kmod-usbip
@@ -2816,10 +3993,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 5137
+Installed-Size: 5131
 Filename: kmod-usbip_3.8-rc5-1_ib42x0.ipk
-Size: 5810
-MD5Sum: 36011d6f25bfe79a26bd4b2602571f06
+Size: 5803
+MD5Sum: fa9bebd67c2437af74fbc956fbb7368d
 Description:  USB-over-IP kernel support
 
 Package: kmod-video-core
@@ -2830,10 +4007,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 48145
+Installed-Size: 48152
 Filename: kmod-video-core_3.8-rc5-1_ib42x0.ipk
 Size: 48601
-MD5Sum: 5e6e3bd2f44f8d66d826720bc2785fc1
+MD5Sum: 36c036a030026e36d437eeaee04dd0ad
 Description:  Kernel modules for Video4Linux support
 
 Package: kmod-video-cpia2
@@ -2844,10 +4021,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 17910
+Installed-Size: 17904
 Filename: kmod-video-cpia2_3.8-rc5-1_ib42x0.ipk
-Size: 18613
-MD5Sum: a9f8e195213be1d4e8d3d68a6a66cfbc
+Size: 18607
+MD5Sum: 501dd41fca64178a448dbc4471f02d9f
 Description:  Kernel modules for supporting CPIA2 USB based cameras.
 
 Package: kmod-video-gspca-conex
@@ -2860,8 +4037,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 5679
 Filename: kmod-video-gspca-conex_3.8-rc5-1_ib42x0.ipk
-Size: 6375
-MD5Sum: 152cf6fd3fa424b021ec4e630be92e02
+Size: 6376
+MD5Sum: 7bc0623b25c7430b84e8b7119d3a75c1
 Description:  The Conexant Camera Driver (conex) kernel module.
 
 Package: kmod-video-gspca-core
@@ -2874,8 +4051,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 11544
 Filename: kmod-video-gspca-core_3.8-rc5-1_ib42x0.ipk
-Size: 12343
-MD5Sum: a9d07cce86e369db677d46a1f2306283
+Size: 12342
+MD5Sum: 11e38f3f8484122030efa8afef2fffec
 Description:  Kernel modules for supporting GSPCA based webcam devices. Note this is just
  the core of the driver, please select a submodule that supports your webcam.
 
@@ -2887,10 +4064,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4219
+Installed-Size: 4221
 Filename: kmod-video-gspca-etoms_3.8-rc5-1_ib42x0.ipk
-Size: 4895
-MD5Sum: 4e40e1967e8d899d561e49a66813b228
+Size: 4897
+MD5Sum: 8109ca4b2cb1735f1c16674bf7569c34
 Description:  The Etoms USB Camera Driver (etoms) kernel module.
 
 Package: kmod-video-gspca-finepix
@@ -2903,8 +4080,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 2752
 Filename: kmod-video-gspca-finepix_3.8-rc5-1_ib42x0.ipk
-Size: 3429
-MD5Sum: dad38f473963eb5a2fde6cb06acf42a1
+Size: 3426
+MD5Sum: dbd00a2ac172693b9f760bd5ad601b3d
 Description:  The Fujifilm FinePix USB V4L2 driver (finepix) kernel module.
 
 Package: kmod-video-gspca-gl860
@@ -2915,10 +4092,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 16449
+Installed-Size: 16452
 Filename: kmod-video-gspca-gl860_3.8-rc5-1_ib42x0.ipk
-Size: 17094
-MD5Sum: a0a9d8609539b73a16ee243eb6f4fa25
+Size: 17093
+MD5Sum: 40218ede5e1c5acc26221e74d6081187
 Description:  gl860 webcam support
 
 Package: kmod-video-gspca-jeilinj
@@ -2929,10 +4106,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4289
+Installed-Size: 4294
 Filename: kmod-video-gspca-jeilinj_3.8-rc5-1_ib42x0.ipk
-Size: 4975
-MD5Sum: 9cf4ee613f472945d7c58ddf94edb649
+Size: 4984
+MD5Sum: 4b9ca08058257dca2b64d795d7275338
 Description:  The JEILINJ USB Camera Driver (jeilinj) kernel module.
 
 Package: kmod-video-gspca-konica
@@ -2943,10 +4120,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3349
+Installed-Size: 3355
 Filename: kmod-video-gspca-konica_3.8-rc5-1_ib42x0.ipk
-Size: 4024
-MD5Sum: a6ee4eee2895b189a3b3245f7124a012
+Size: 4032
+MD5Sum: a4ed27fa72cb36481659adbc764e807f
 Description:  The Konica USB Camera Driver (konica) kernel module.
 
 Package: kmod-video-gspca-m5602
@@ -2957,10 +4134,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 14115
+Installed-Size: 14125
 Filename: kmod-video-gspca-m5602_3.8-rc5-1_ib42x0.ipk
-Size: 14825
-MD5Sum: a145e46ca5d939c25d7fc36c738c9a48
+Size: 14828
+MD5Sum: 396653eed4e472cb38c570c522b321a3
 Description:  The ALi USB m5602 Camera Driver (m5602) kernel module.
 
 Package: kmod-video-gspca-mars
@@ -2971,10 +4148,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3752
+Installed-Size: 3750
 Filename: kmod-video-gspca-mars_3.8-rc5-1_ib42x0.ipk
-Size: 4433
-MD5Sum: 813fb25f04b23d483fde9ca66d8c5157
+Size: 4423
+MD5Sum: 75d9ec716af9e380656852b9a46516bd
 Description:  The Mars USB Camera Driver (mars) kernel module.
 
 Package: kmod-video-gspca-mr97310a
@@ -2987,8 +4164,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 5418
 Filename: kmod-video-gspca-mr97310a_3.8-rc5-1_ib42x0.ipk
-Size: 6122
-MD5Sum: 0c3729731df4ae33fad5945a5e88a665
+Size: 6128
+MD5Sum: d6fdb5b10baa7b3b1fc1169d21c46f91
 Description:  The Mars-Semi MR97310A USB Camera Driver (mr97310a) kernel module.
 
 Package: kmod-video-gspca-ov519
@@ -3001,8 +4178,8 @@ Status: unknown hold not-installed
 Architecture: ib42x0
 Installed-Size: 17035
 Filename: kmod-video-gspca-ov519_3.8-rc5-1_ib42x0.ipk
-Size: 17744
-MD5Sum: 56fa4447afa7fdf5a1574e65bd372a89
+Size: 17770
+MD5Sum: c94ab72bb1f458470ce8398b71ec2dcb
 Description:  The OV519 USB Camera Driver (ov519) kernel module.
 
 Package: kmod-video-gspca-ov534-9
@@ -3013,10 +4190,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 5628
+Installed-Size: 5629
 Filename: kmod-video-gspca-ov534-9_3.8-rc5-1_ib42x0.ipk
-Size: 6323
-MD5Sum: 3866501e3d49a74218a3dc7fcbd86b8b
+Size: 6317
+MD5Sum: ef88d17c0fca396709f01fb8379072c2
 Description:  The OV534-9 USB Camera Driver (ov534_9) kernel module.
 
 Package: kmod-video-gspca-ov534
@@ -3027,10 +4204,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 6746
+Installed-Size: 6747
 Filename: kmod-video-gspca-ov534_3.8-rc5-1_ib42x0.ipk
-Size: 7491
-MD5Sum: ccfe56a9809c5f8de80ae4f92d847763
+Size: 7492
+MD5Sum: 93fcd9a2bd350a20bb5029870dfbe9ab
 Description:  The OV534 USB Camera Driver (ov534) kernel module.
 
 Package: kmod-video-gspca-pac207
@@ -3041,10 +4218,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3691
+Installed-Size: 3690
 Filename: kmod-video-gspca-pac207_3.8-rc5-1_ib42x0.ipk
-Size: 4382
-MD5Sum: 81bff5c154c33549ab45cccff98b0f38
+Size: 4387
+MD5Sum: 80059e22e48fc48ce05bd5ec9bf1dc6a
 Description:  The Pixart PAC207 USB Camera Driver (pac207) kernel module.
 
 Package: kmod-video-gspca-pac7311
@@ -3055,10 +4232,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4307
+Installed-Size: 4310
 Filename: kmod-video-gspca-pac7311_3.8-rc5-1_ib42x0.ipk
-Size: 5000
-MD5Sum: 52309bc4a2c814c8ab3eb456f3b2f841
+Size: 5007
+MD5Sum: 592e5f9007f192974e80ee0237f3aebb
 Description:  The Pixart PAC7311 USB Camera Driver (pac7311) kernel module.
 
 Package: kmod-video-gspca-se401
@@ -3069,10 +4246,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4627
+Installed-Size: 4632
 Filename: kmod-video-gspca-se401_3.8-rc5-1_ib42x0.ipk
-Size: 5295
-MD5Sum: e0f40bec85e9df3d14ff71a11b24fcee
+Size: 5318
+MD5Sum: 267b5972085b41e641ffa09aa8ce0243
 Description:  The SE401 USB Camera Driver kernel module.
 
 Package: kmod-video-gspca-sn9c20x
@@ -3083,10 +4260,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 13579
+Installed-Size: 13584
 Filename: kmod-video-gspca-sn9c20x_3.8-rc5-1_ib42x0.ipk
-Size: 14246
-MD5Sum: c474034fc99e62ceb047467ea205d02c
+Size: 14250
+MD5Sum: 13094b4ceb9b951730983084e915c194
 Description:  The SN9C20X USB Camera Driver (sn9c20x) kernel module.
 
 Package: kmod-video-gspca-sonixb
@@ -3097,10 +4274,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 7049
+Installed-Size: 7056
 Filename: kmod-video-gspca-sonixb_3.8-rc5-1_ib42x0.ipk
-Size: 7760
-MD5Sum: cc06d8064213c2ffd4906f0ff49fa503
+Size: 7771
+MD5Sum: d552d1b8670272b31a5f81d4c38292c0
 Description:  The SONIX Bayer USB Camera Driver (sonixb) kernel module.
 
 Package: kmod-video-gspca-sonixj
@@ -3111,10 +4288,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 13358
+Installed-Size: 13365
 Filename: kmod-video-gspca-sonixj_3.8-rc5-1_ib42x0.ipk
-Size: 14048
-MD5Sum: 97c21baa68da54a22174c8d7dec1e747
+Size: 14064
+MD5Sum: 23e4347c4458d12066a40c5defe139a2
 Description:  The SONIX JPEG USB Camera Driver (sonixj) kernel module.
 
 Package: kmod-video-gspca-spca500
@@ -3125,10 +4302,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 5621
+Installed-Size: 5624
 Filename: kmod-video-gspca-spca500_3.8-rc5-1_ib42x0.ipk
-Size: 6310
-MD5Sum: af14cb7ca6924f26bad8500972f0b20c
+Size: 6312
+MD5Sum: 362097ccd8fc5c109404a1584e6652a2
 Description:  The SPCA500 USB Camera Driver (spca500) kernel module.
 
 Package: kmod-video-gspca-spca501
@@ -3139,10 +4316,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4517
+Installed-Size: 4515
 Filename: kmod-video-gspca-spca501_3.8-rc5-1_ib42x0.ipk
-Size: 5162
-MD5Sum: 4e452379b8c38610a4d561de6b93170b
+Size: 5159
+MD5Sum: deb727f6f834031ee6ff565a3641459f
 Description:  The SPCA501 USB Camera Driver (spca501) kernel module.
 
 Package: kmod-video-gspca-spca505
@@ -3153,10 +4330,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3381
+Installed-Size: 3379
 Filename: kmod-video-gspca-spca505_3.8-rc5-1_ib42x0.ipk
-Size: 4063
-MD5Sum: fc3f385783529874d6a8486c9179aa33
+Size: 4057
+MD5Sum: 2e363b817e55d583a8f0b6b6f90b8dd8
 Description:  The SPCA505 USB Camera Driver (spca505) kernel module.
 
 Package: kmod-video-gspca-spca506
@@ -3167,10 +4344,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3867
+Installed-Size: 3852
 Filename: kmod-video-gspca-spca506_3.8-rc5-1_ib42x0.ipk
-Size: 4521
-MD5Sum: b929d066aead0c58172fb1f4712b306d
+Size: 4515
+MD5Sum: b799f14a43db91235b27e54d3e0ca897
 Description:  The SPCA506 USB Camera Driver (spca506) kernel module.
 
 Package: kmod-video-gspca-spca508
@@ -3181,10 +4358,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 4031
+Installed-Size: 4027
 Filename: kmod-video-gspca-spca508_3.8-rc5-1_ib42x0.ipk
-Size: 4723
-MD5Sum: fffa1f650f2ee9c441cede600e617b5d
+Size: 4712
+MD5Sum: 36b7cda2ce4dd6997822c8622df52870
 Description:  The SPCA508 USB Camera Driver (spca508) kernel module.
 
 Package: kmod-video-gspca-spca561
@@ -3195,10 +4372,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 5334
+Installed-Size: 5331
 Filename: kmod-video-gspca-spca561_3.8-rc5-1_ib42x0.ipk
-Size: 6042
-MD5Sum: 4522eaddbe1036d59c4ddb7a7bdd989a
+Size: 6026
+MD5Sum: fa709f4418d6e890c441e4ca4e4ad007
 Description:  The SPCA561 USB Camera Driver (spca561) kernel module.
 
 Package: kmod-video-gspca-sq905
@@ -3209,10 +4386,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 2982
+Installed-Size: 2980
 Filename: kmod-video-gspca-sq905_3.8-rc5-1_ib42x0.ipk
 Size: 3669
-MD5Sum: 2000a889e1f84be398dc3eb79977a519
+MD5Sum: 80f708633b92a07c7be0dfc1315959d6
 Description:  The SQ Technologies SQ905 based USB Camera Driver (sq905) kernel module.
 
 Package: kmod-video-gspca-sq905c
@@ -3223,10 +4400,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 2662
+Installed-Size: 2658
 Filename: kmod-video-gspca-sq905c_3.8-rc5-1_ib42x0.ipk
-Size: 3360
-MD5Sum: d76ab02fb7628e5ed01efc915da8c318
+Size: 3345
+MD5Sum: 123549aad7e43684a73d2b868e7a499b
 Description:  The SQ Technologies SQ905C based USB Camera Driver (sq905c) kernel module.
 
 Package: kmod-video-gspca-stk014
@@ -3237,10 +4414,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 3956
+Installed-Size: 3952
 Filename: kmod-video-gspca-stk014_3.8-rc5-1_ib42x0.ipk
-Size: 4654
-MD5Sum: 9c14512266edb3cd69aa5a75127f6b02
+Size: 4642
+MD5Sum: 4ded4da12481beac66bf17a785ee702c
 Description:  The Syntek DV4000 (STK014) USB Camera Driver (stk014) kernel module.
 
 Package: kmod-video-gspca-stv06xx
@@ -3251,10 +4428,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 9191
+Installed-Size: 9194
 Filename: kmod-video-gspca-stv06xx_3.8-rc5-1_ib42x0.ipk
-Size: 9903
-MD5Sum: 0f589d12ded49c82b66d2fcac3ab8be2
+Size: 9910
+MD5Sum: cf14f7b4f2030f0aab4e3fbe90e51ff6
 Description:  The STV06XX USB Camera Driver (stv06xx) kernel module.
 
 Package: kmod-video-gspca-sunplus
@@ -3265,10 +4442,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 6388
+Installed-Size: 6383
 Filename: kmod-video-gspca-sunplus_3.8-rc5-1_ib42x0.ipk
-Size: 6986
-MD5Sum: 1d0732f56085302bb49cbfc85a117c3c
+Size: 6990
+MD5Sum: 7f0414091dd1e794b5b047514c2085ed
 Description:  The SUNPLUS USB Camera Driver (sunplus) kernel module.
 
 Package: kmod-video-gspca-t613
@@ -3279,10 +4456,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 6037
+Installed-Size: 6034
 Filename: kmod-video-gspca-t613_3.8-rc5-1_ib42x0.ipk
-Size: 6743
-MD5Sum: 1706d31966b6322c082bc5484c069eef
+Size: 6737
+MD5Sum: c9e7a968efeb1cc632145d8320877f61
 Description:  The T613 (JPEG Compliance) USB Camera Driver (t613) kernel module.
 
 Package: kmod-video-gspca-tv8532
@@ -3293,10 +4470,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 2744
+Installed-Size: 2741
 Filename: kmod-video-gspca-tv8532_3.8-rc5-1_ib42x0.ipk
-Size: 3423
-MD5Sum: 45d55e53529fdd6f93c50c6af7f24c3c
+Size: 3429
+MD5Sum: 9ed55797d1652a72ae82bc5a65dcd214
 Description:  The TV8532 USB Camera Driver (tv8532) kernel module.
 
 Package: kmod-video-gspca-vc032x
@@ -3307,10 +4484,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 10757
+Installed-Size: 10756
 Filename: kmod-video-gspca-vc032x_3.8-rc5-1_ib42x0.ipk
-Size: 11436
-MD5Sum: 8d97685bc82845ef8a89c5e8f550581b
+Size: 11437
+MD5Sum: 008be6dcffa4f8ba3c0159f3f6bbfde2
 Description:  The VC032X USB Camera Driver (vc032x) kernel module.
 
 Package: kmod-video-gspca-zc3xx
@@ -3321,10 +4498,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 16223
+Installed-Size: 16222
 Filename: kmod-video-gspca-zc3xx_3.8-rc5-1_ib42x0.ipk
-Size: 16809
-MD5Sum: b0c1bcbf2d15cf6b2c6d108bcc0cc965
+Size: 16812
+MD5Sum: c7eb169ced8de36bb767a72a2e371e45
 Description:  The ZC3XX USB Camera Driver (zc3xx) kernel module.
 
 Package: kmod-video-pwc
@@ -3335,10 +4512,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 22093
+Installed-Size: 22090
 Filename: kmod-video-pwc_3.8-rc5-1_ib42x0.ipk
-Size: 22745
-MD5Sum: eb0c1b642429951cf178a1cb6820c418
+Size: 22746
+MD5Sum: cb330eddc73776b96f22f10deecbac11
 Description:  Kernel modules for supporting Philips USB based cameras.
 
 Package: kmod-video-sn9c102
@@ -3349,10 +4526,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 31710
+Installed-Size: 31706
 Filename: kmod-video-sn9c102_3.8-rc5-1_ib42x0.ipk
-Size: 32114
-MD5Sum: 10e1834c4240eaf9b6014f0dfb2d62c3
+Size: 32109
+MD5Sum: 21b12985a0cf8f99ef1ae79fb8dafbfd
 Description:  Kernel modules for supporting SN9C102
  camera chips.
 
@@ -3364,10 +4541,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 35976
+Installed-Size: 35978
 Filename: kmod-video-uvc_3.8-rc5-1_ib42x0.ipk
-Size: 36741
-MD5Sum: 63541e4d2d8326961f40330ddd6de7e9
+Size: 36742
+MD5Sum: 6274de56f078ae99edc2e896ee5b20ad
 Description:  Kernel modules for supporting USB Video Class (UVC) devices.
 
 Package: kmod-video-videobuf2
@@ -3378,10 +4555,10 @@ License: GPLv2
 Section: kernel
 Status: unknown hold not-installed
 Architecture: ib42x0
-Installed-Size: 16122
+Installed-Size: 16125
 Filename: kmod-video-videobuf2_3.8-rc5-1_ib42x0.ipk
-Size: 16804
-MD5Sum: 67d73807be17a212a54fc9e0d878c4a4
+Size: 16811
+MD5Sum: 2c02ad75c844506c4b60d8eedfd8cee7
 Description:  Kernel modules that implements three basic types of media buffers.
 
 Package: kmod-zd1211rw
@@ -3393,10 +4570,10 @@ SourceURL: http://mirror2.openwrt.org/sources
 Section: kernel
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: ib42x0
-Installed-Size: 41130
+Installed-Size: 41137
 Filename: kmod-zd1211rw_3.8-rc5+2013-01-07-1_ib42x0.ipk
-Size: 41799
-MD5Sum: 7e4e86fc24d9a1fd0fc670ae15841f85
+Size: 41792
+MD5Sum: ded11b6b74a315550a945e72b4ab7505
 Description:  Zydas ZD1211 support
 
 Package: krb5-client
@@ -4259,6 +5436,20 @@ Description:  An helper library for common error codes and descriptions.
  Libksba, DirMngr, Pinentry, SmartCard Daemon and possibly more in the
  future.
 
+Package: libgssglue
+Version: 0.4-1
+Depends: libc, librt, libpthread
+Source: feeds/addpack/libgssglue
+SourceFile: libgssglue-0.4.tar.gz
+SourceURL: http://www.citi.umich.edu/projects/nfsv4/linux/libgssglue/
+Section: libs
+Architecture: ib42x0
+Installed-Size: 12255
+Filename: libgssglue_0.4-1_ib42x0.ipk
+Size: 12849
+MD5Sum: 92b6304a55d8bdfebfbdc75011a91562
+Description:  Library libgssglue
+
 Package: libhowl
 Version: 1.0.0-4
 Depends: libc, librt, libpthread
@@ -5088,16 +6279,16 @@ Description:  TIFF library
 
 Package: libtirpc
 Version: 0.2.2-1
-Depends: libc, librt, libpthread, libpthread, krb5-libs
+Depends: libc, librt, libpthread, libpthread, libgssglue
 Source: feeds/addpack/libtirpc
 SourceFile: libtirpc-0.2.2.tar.bz2
 SourceURL: @SF/libtirpc
 Section: libs
 Architecture: ib42x0
-Installed-Size: 54284
+Installed-Size: 54233
 Filename: libtirpc_0.2.2-1_ib42x0.ipk
-Size: 54351
-MD5Sum: 7389034c92a82a0ecca24f32296d4055
+Size: 54629
+MD5Sum: 0b421d11ee2e98412efe4f39ebebc69b
 Description:  Library TI RPC for RPC bindings
 
 Package: libubox
@@ -6367,6 +7558,18 @@ Size: 3571
 MD5Sum: 4a8685e6730ac30e3891976b7f507c7c
 Description:  Support for PPP/PPPoE/PPPoA/PPtP
 
+Package: luci-sgi-cgi-lighttpd
+Version: 1.0-1
+Depends: libc, librt, libpthread, luci-mod-admin-core, luci-sgi-cgi, lighttpd, lighttpd-mod-cgi, lighttpd-mod-redirect
+Source: feeds/addpack/luci-sgi-cgi-lighttpd
+Section: net
+Architecture: ib42x0
+Installed-Size: 530
+Filename: luci-sgi-cgi-lighttpd_1.0-1_ib42x0.ipk
+Size: 1090
+MD5Sum: 25cbe9ca587c98d25c76fdee35a9333f
+Description:  LightTPD - Activate Lua integration
+
 Package: luci-sgi-cgi
 Version: trunk+svn-1
 Depends: libc, librt, libpthread
@@ -7055,10 +8258,10 @@ SourceFile: openswan-2.6.38.tar.gz
 SourceURL: http://www.openswan.org/download
 Section: net
 Architecture: ib42x0
-Installed-Size: 733730
+Installed-Size: 733742
 Filename: openswan_2.6.38-2_ib42x0.ipk
-Size: 732833
-MD5Sum: 49da782031fceb6c76c08daebbed59d4
+Size: 732952
+MD5Sum: a3d84a3263658e6bcda100cafedfd489
 Description:  Openswan is an IPsec implementation for Linux.
  This package contains the Openswan user-land daemon.
 
@@ -7215,10 +8418,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 925867
+Installed-Size: 925870
 Filename: php5-cgi_5.4.11-1_ib42x0.ipk
-Size: 925424
-MD5Sum: 3f28b26d2ddc2c27ce04b99151def804
+Size: 925323
+MD5Sum: a657db4b844a1cf7976e552cb26aaa42
 Description:  PHP is a widely-used general-purpose scripting language that is especially
  suited for Web development and can be embedded into HTML.
  This package contains the CGI version of the PHP5 interpreter.
@@ -7232,10 +8435,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 931677
+Installed-Size: 931718
 Filename: php5-cli_5.4.11-1_ib42x0.ipk
-Size: 930762
-MD5Sum: 944fd83240c2e337bea2574234fc5ef3
+Size: 930994
+MD5Sum: cb191a0e9d19271c5a7c9d6e06d71d84
 Description:  PHP is a widely-used general-purpose scripting language that is especially
  suited for Web development and can be embedded into HTML.
  This package contains the CLI version of the PHP5 interpreter.
@@ -7249,10 +8452,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 552
+Installed-Size: 554
 Filename: php5-fastcgi_5.4.11-1_ib42x0.ipk
-Size: 1232
-MD5Sum: dbff807f1a01a609b60c919ffbc9116b
+Size: 1230
+MD5Sum: dd291fa701e61dca580d539a2f931cc4
 Description:  As FastCGI support is now a core feature the php5-fastcgi package now depends
  on the php5-cgi package, containing just the startup script.
 
@@ -7265,10 +8468,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 9562
+Installed-Size: 9566
 Filename: php5-mod-calendar_5.4.11-1_ib42x0.ipk
-Size: 10174
-MD5Sum: bd87456d7097d38e650970f603c5c26d
+Size: 10182
+MD5Sum: 292ba07c0e24cf0e3f409a7bf8a2ddc5
 Description:  Calendar shared module
 
 Package: php5-mod-ctype
@@ -7280,10 +8483,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 2904
+Installed-Size: 2908
 Filename: php5-mod-ctype_5.4.11-1_ib42x0.ipk
-Size: 3515
-MD5Sum: 3694124f47d0e6cc8d4e65ba3a451784
+Size: 3519
+MD5Sum: 11ab7f8a954640abacf425ac9dce9320
 Description:  Ctype shared module
 
 Package: php5-mod-curl
@@ -7297,8 +8500,8 @@ Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
 Installed-Size: 25112
 Filename: php5-mod-curl_5.4.11-1_ib42x0.ipk
-Size: 25651
-MD5Sum: 27f48744c95278c19366e5d8d8ba4e1f
+Size: 25662
+MD5Sum: d3593075bdeb1ddd8c93c45a19144f10
 Description:  cURL shared module
 
 Package: php5-mod-dom
@@ -7310,10 +8513,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 44910
+Installed-Size: 44908
 Filename: php5-mod-dom_5.4.11-1_ib42x0.ipk
-Size: 45373
-MD5Sum: 4912f1083ffa9a7b9fa2b47f4a189f9d
+Size: 45203
+MD5Sum: 6650f870c8d575fa753c6dabe9a6875d
 Description:  DOM shared module
 
 Package: php5-mod-exif
@@ -7325,10 +8528,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 22344
+Installed-Size: 22341
 Filename: php5-mod-exif_5.4.11-1_ib42x0.ipk
-Size: 22645
-MD5Sum: 0c74689c827532c1b48ca0da1b754603
+Size: 22638
+MD5Sum: 68c56e35b4f509ad30e06aa39263d65d
 Description:  EXIF shared module
 
 Package: php5-mod-fileinfo
@@ -7340,10 +8543,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 212658
+Installed-Size: 212656
 Filename: php5-mod-fileinfo_5.4.11-1_ib42x0.ipk
-Size: 210530
-MD5Sum: bec815f440e6bc4073824d0baba8b870
+Size: 210397
+MD5Sum: 949dcb43a5d5438b97009f291a48b72b
 Description:  Fileinfo shared module
 
 Package: php5-mod-ftp
@@ -7355,10 +8558,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 14490
+Installed-Size: 14491
 Filename: php5-mod-ftp_5.4.11-1_ib42x0.ipk
-Size: 15068
-MD5Sum: 075b6cde3c206f34c24be4b434031ee6
+Size: 15025
+MD5Sum: 37b9e2cd6dc1133636b0c3b861d4f55c
 Description:  FTP shared module
 
 Package: php5-mod-gd
@@ -7370,10 +8573,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 71503
+Installed-Size: 71504
 Filename: php5-mod-gd_5.4.11-1_ib42x0.ipk
-Size: 72019
-MD5Sum: d0acb9e7ffb4e465da0bccfbc615feb4
+Size: 72028
+MD5Sum: 5530895152f3c0f7c11a2e15a9ed73dd
 Description:  GD graphics shared module
 
 Package: php5-mod-gettext
@@ -7385,10 +8588,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 2986
+Installed-Size: 2988
 Filename: php5-mod-gettext_5.4.11-1_ib42x0.ipk
-Size: 3597
-MD5Sum: 74da57b66a5701cc48e786f86715d48a
+Size: 3600
+MD5Sum: 0a5d498fc0d514e3d0eca87b27b57e6c
 Description:  Gettext shared module
 
 Package: php5-mod-gmp
@@ -7400,10 +8603,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 10966
+Installed-Size: 10967
 Filename: php5-mod-gmp_5.4.11-1_ib42x0.ipk
 Size: 11572
-MD5Sum: 0e6d130e3f1f6ff221075c5a43349c33
+MD5Sum: 4c60d1d2199cae1ca7b18886bdd63fa1
 Description:  GMP shared module
 
 Package: php5-mod-hash
@@ -7415,10 +8618,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 73952
+Installed-Size: 73954
 Filename: php5-mod-hash_5.4.11-1_ib42x0.ipk
-Size: 73758
-MD5Sum: 28f76de4dbe3deed2df70624cb371c0f
+Size: 73774
+MD5Sum: 00be1878df9d24259df5fddfc49dbfb9
 Description:  Hash shared module
 
 Package: php5-mod-iconv
@@ -7430,10 +8633,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 15264
+Installed-Size: 15258
 Filename: php5-mod-iconv_5.4.11-1_ib42x0.ipk
-Size: 15896
-MD5Sum: cfcb406d6a60ccff8c224d2ffa40c0f2
+Size: 15807
+MD5Sum: 29b2e045d96242badeffe97da3fdecc5
 Description:  iConv shared module
 
 Package: php5-mod-json
@@ -7445,10 +8648,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 11793
+Installed-Size: 11790
 Filename: php5-mod-json_5.4.11-1_ib42x0.ipk
-Size: 12435
-MD5Sum: 9349841c9b78ae027c6d9c501fce47b4
+Size: 12428
+MD5Sum: 83c94c747954d81260b6361e5a9c8562
 Description:  JSON shared module
 
 Package: php5-mod-ldap
@@ -7460,10 +8663,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 15595
+Installed-Size: 15592
 Filename: php5-mod-ldap_5.4.11-1_ib42x0.ipk
-Size: 16107
-MD5Sum: bb2c0974205dc19e8b82b6545467be5c
+Size: 16094
+MD5Sum: ac77b75a4b896865e5e612f729837499
 Description:  LDAP shared module
 
 Package: php5-mod-mbstring
@@ -7475,10 +8678,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 578626
+Installed-Size: 578618
 Filename: php5-mod-mbstring_5.4.11-1_ib42x0.ipk
-Size: 575317
-MD5Sum: 61155fc4c031d22723d9804a71ae3872
+Size: 575174
+MD5Sum: 519a6a70987afa3c9bdd8899fcd33db5
 Description:  MBString shared module
 
 Package: php5-mod-mcrypt
@@ -7490,10 +8693,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 12864
+Installed-Size: 12862
 Filename: php5-mod-mcrypt_5.4.11-1_ib42x0.ipk
-Size: 13506
-MD5Sum: 67ea0bc70b0ea713836f636f33a7e464
+Size: 13510
+MD5Sum: 810058635e4ff66dcc72f65b00adbc0c
 Description:  Mcrypt shared module
 
 Package: php5-mod-mysql
@@ -7505,10 +8708,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 14814
+Installed-Size: 14812
 Filename: php5-mod-mysql_5.4.11-1_ib42x0.ipk
-Size: 15348
-MD5Sum: d6e7e99eed118037e93e06dbfd2fa31f
+Size: 15338
+MD5Sum: 31f79ab9a6b0f6b63b6873fb11435345
 Description:  MySQL shared module
 
 Package: php5-mod-mysqli
@@ -7520,10 +8723,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 37039
+Installed-Size: 37038
 Filename: php5-mod-mysqli_5.4.11-1_ib42x0.ipk
-Size: 37522
-MD5Sum: b77b98e3c3099fe8ba46925703b9ff43
+Size: 37513
+MD5Sum: 10ad23684a715875ef7135faf8d48d71
 Description:  MySQL Improved Extension shared module
 
 Package: php5-mod-openssl
@@ -7535,10 +8738,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 34881
+Installed-Size: 34883
 Filename: php5-mod-openssl_5.4.11-1_ib42x0.ipk
-Size: 35173
-MD5Sum: 65a422543324266b10139c0a510b3848
+Size: 35170
+MD5Sum: 3fb5897767d6b2789be4c89cd38af980
 Description:  OpenSSL shared module
 
 Package: php5-mod-pcntl
@@ -7550,10 +8753,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 9944
+Installed-Size: 9940
 Filename: php5-mod-pcntl_5.4.11-1_ib42x0.ipk
 Size: 10587
-MD5Sum: 4509a9b9b6448540464ba88bca79df5c
+MD5Sum: 67f92f4e48991cd8528059e7e9d5b53b
 Description:  PCNTL shared module
 
 Package: php5-mod-pdo-mysql
@@ -7565,10 +8768,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 9963
+Installed-Size: 9962
 Filename: php5-mod-pdo-mysql_5.4.11-1_ib42x0.ipk
-Size: 10568
-MD5Sum: 600b8e91533a0c0f260ad5900c4c2838
+Size: 10614
+MD5Sum: 97f77c57bf95bf354f1e2160bf58b99f
 Description:  PDO driver for MySQL shared module
 
 Package: php5-mod-pdo-pgsql
@@ -7580,10 +8783,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 12697
+Installed-Size: 12698
 Filename: php5-mod-pdo-pgsql_5.4.11-1_ib42x0.ipk
-Size: 13313
-MD5Sum: f99cf5894d51cf4bf4d3c1da6462fff3
+Size: 13316
+MD5Sum: f8de19b7d9ae6ccd0bfb722b500b5a0f
 Description:  PDO driver for PostgreSQL shared module
 
 Package: php5-mod-pdo-sqlite
@@ -7595,10 +8798,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 8609
+Installed-Size: 8613
 Filename: php5-mod-pdo-sqlite_5.4.11-1_ib42x0.ipk
-Size: 9262
-MD5Sum: 1d48aa4fab3423819cc0a6397dbddf16
+Size: 9267
+MD5Sum: 82c7f2c71643e832c82dabe3f6cbc52d
 Description:  PDO driver for SQLite 3.x shared module
 
 Package: php5-mod-pdo
@@ -7610,10 +8813,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 35345
+Installed-Size: 35343
 Filename: php5-mod-pdo_5.4.11-1_ib42x0.ipk
-Size: 35796
-MD5Sum: 5fbc83a67256c4d27570fbf11a067908
+Size: 35795
+MD5Sum: 17bb1a32e6ebdbe163ad8a32fed8cf75
 Description:  PHP Data Objects shared module
 
 Package: php5-mod-pgsql
@@ -7625,10 +8828,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 35632
+Installed-Size: 35634
 Filename: php5-mod-pgsql_5.4.11-1_ib42x0.ipk
-Size: 36179
-MD5Sum: 7db87786e605b6d949b6a2bb83421252
+Size: 36169
+MD5Sum: bf411c7fe1bd52d7397dbd78f532db3f
 Description:  PostgreSQL shared module
 
 Package: php5-mod-session
@@ -7642,8 +8845,8 @@ Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
 Installed-Size: 25101
 Filename: php5-mod-session_5.4.11-1_ib42x0.ipk
-Size: 25649
-MD5Sum: 4264adef21fccda9587af22059b9b8a2
+Size: 25650
+MD5Sum: f5ab8ab246aca098b85aa2e2825232f5
 Description:  Session shared module
 
 Package: php5-mod-shmop
@@ -7655,10 +8858,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 3624
+Installed-Size: 3623
 Filename: php5-mod-shmop_5.4.11-1_ib42x0.ipk
-Size: 4236
-MD5Sum: ce17b3615e044238095c3eaf9bc0381d
+Size: 4228
+MD5Sum: 3afb0bc9403a3c23567b4d8ae8cc9bfd
 Description:  Shared Memory shared module
 
 Package: php5-mod-simplexml
@@ -7670,10 +8873,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 15350
+Installed-Size: 15352
 Filename: php5-mod-simplexml_5.4.11-1_ib42x0.ipk
-Size: 15974
-MD5Sum: 4de9d6b589fdda19d295d572411c6c5c
+Size: 15965
+MD5Sum: 3a5c60ea895628b34e51d70c9424289e
 Description:  SimpleXML shared module
 
 Package: php5-mod-soap
@@ -7685,10 +8888,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 110464
+Installed-Size: 110465
 Filename: php5-mod-soap_5.4.11-1_ib42x0.ipk
-Size: 110905
-MD5Sum: 65e088064ca55834dce5da2b01b47924
+Size: 110903
+MD5Sum: 54e745c21eece906178f3c493a960b25
 Description:  SOAP shared module
 
 Package: php5-mod-sockets
@@ -7702,8 +8905,8 @@ Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
 Installed-Size: 17168
 Filename: php5-mod-sockets_5.4.11-1_ib42x0.ipk
-Size: 17794
-MD5Sum: e1d26d5da9c257af45d69bafd1fd9d16
+Size: 17790
+MD5Sum: cd8f11e8a59b7ab868fbc840a7911c00
 Description:  Sockets shared module
 
 Package: php5-mod-sqlite3
@@ -7715,10 +8918,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 13732
+Installed-Size: 13733
 Filename: php5-mod-sqlite3_5.4.11-1_ib42x0.ipk
-Size: 14274
-MD5Sum: e626d920ac6186c3ec54f9f954997287
+Size: 14271
+MD5Sum: 65a47687c96dccd2e4f29f48bb3d53d9
 Description:  SQLite3 shared module
 
 Package: php5-mod-sqlite
@@ -7730,10 +8933,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 19859
+Installed-Size: 19861
 Filename: php5-mod-sqlite_5.4.11-1_ib42x0.ipk
-Size: 20407
-MD5Sum: 03b3cb970ae201275e728aace93ad5b8
+Size: 20408
+MD5Sum: 2c4174df3114a87788a88b854740a185
 Description:  SQLite 2.x shared module
 
 Package: php5-mod-sysvmsg
@@ -7747,8 +8950,8 @@ Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
 Installed-Size: 5402
 Filename: php5-mod-sysvmsg_5.4.11-1_ib42x0.ipk
-Size: 6029
-MD5Sum: 332b4f50f5e7d9246cdab25df337086c
+Size: 6023
+MD5Sum: 1c56449cfa90544951836de451eeedf6
 Description:  System V messages shared module
 
 Package: php5-mod-sysvsem
@@ -7762,8 +8965,8 @@ Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
 Installed-Size: 3204
 Filename: php5-mod-sysvsem_5.4.11-1_ib42x0.ipk
-Size: 3814
-MD5Sum: 6e4b75ee904026474ab5b40a8d456e51
+Size: 3824
+MD5Sum: e4460a1e972651fefc5a0d472f2ba559
 Description:  System V shared memory shared module
 
 Package: php5-mod-sysvshm
@@ -7775,10 +8978,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 4320
+Installed-Size: 4319
 Filename: php5-mod-sysvshm_5.4.11-1_ib42x0.ipk
-Size: 4932
-MD5Sum: 152e90d3a9de6d1a779c69499ac27594
+Size: 4933
+MD5Sum: 9be4b3e9ee83444ed7128c347ca1018f
 Description:  System V semaphore shared module
 
 Package: php5-mod-tokenizer
@@ -7790,10 +8993,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 6186
+Installed-Size: 6189
 Filename: php5-mod-tokenizer_5.4.11-1_ib42x0.ipk
-Size: 6802
-MD5Sum: fe8077f0d2e1467986a69058e6853aa1
+Size: 6800
+MD5Sum: d88912807867ab0fea624a12afd367d0
 Description:  Tokenizer shared module
 
 Package: php5-mod-xml
@@ -7805,10 +9008,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 14091
+Installed-Size: 14090
 Filename: php5-mod-xml_5.4.11-1_ib42x0.ipk
-Size: 14692
-MD5Sum: aa09e309006e91c3beed0a5375e8e1e2
+Size: 14683
+MD5Sum: 0a80045e934f0ed6ba795d27ec681f8a
 Description:  XML shared module
 
 Package: php5-mod-xmlreader
@@ -7820,10 +9023,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 8989
+Installed-Size: 8990
 Filename: php5-mod-xmlreader_5.4.11-1_ib42x0.ipk
-Size: 9632
-MD5Sum: a6618597c9ec449c75510c6549f1f49a
+Size: 9617
+MD5Sum: 600b11da04894b0729a1ac8f5a814996
 Description:  XMLReader shared module
 
 Package: php5-mod-xmlwriter
@@ -7835,10 +9038,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 9397
+Installed-Size: 9400
 Filename: php5-mod-xmlwriter_5.4.11-1_ib42x0.ipk
-Size: 9958
-MD5Sum: 90b192dba447f383de03df95f9d8aa9a
+Size: 9971
+MD5Sum: 3ae88e41a84f1001a91fc9361ec66553
 Description:  XMLWriter shared module
 
 Package: php5-mod-zip
@@ -7850,10 +9053,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 31332
+Installed-Size: 31331
 Filename: php5-mod-zip_5.4.11-1_ib42x0.ipk
-Size: 31719
-MD5Sum: 652c94e6a238e5b21c323b027451504f
+Size: 31745
+MD5Sum: 7ec76f1c8357505213642ab2c0b3bfe7
 Description:  ZIP shared module
 
 Package: php5
@@ -7865,10 +9068,10 @@ SourceURL: http://www.php.net/distributions/
 Section: lang
 Maintainer: Michael Heimpold <mhei@heimpold.de>
 Architecture: ib42x0
-Installed-Size: 3311
+Installed-Size: 3309
 Filename: php5_5.4.11-1_ib42x0.ipk
 Size: 4089
-MD5Sum: d1ac53b1ac190c4e167da9d5faabc6b0
+MD5Sum: edb63635b659ccb25427dd4acf081d27
 Description:  PHP is a widely-used general-purpose scripting language that is especially
  suited for Web development and can be embedded into HTML.
  This package contains only the PHP config file. You must actually choose
@@ -8058,6 +9261,41 @@ Description:  rsyncd is a configuration file and initscript to
  utilize rsync as a daemon. It uses the same binary
  as rsync.
 
+Package: samba4-client
+Version: 4.0.3-1
+Depends: libc, librt, libpthread, libreadline, libncurses, libopenldap, krb5-libs, libtirpc, libaio, zlib
+Source: feeds/addpack/samba4
+SourceFile: samba-4.0.3.tar.gz
+SourceURL: http://ftp.samba.org/pub/samba http://ftp.samba.org/pub/samba/old-versions
+License: GPLv3
+LicenseFiles: COPYING
+Section: net
+Architecture: ib42x0
+Installed-Size: 782440
+Filename: samba4-client_4.0.3-1_ib42x0.ipk
+Size: 780922
+MD5Sum: c438034f5746ab28c7250331418a8336
+Description:  Samba 4.0.3 SMB/CIFS client
+
+Package: samba4-server
+Version: 4.0.3-1
+Depends: libc, librt, libpthread, libpopt, libuuid, libopenldap, krb5-libs, libiconv, libacl, libreadline, libtirpc, libaio
+Source: feeds/addpack/samba4
+SourceFile: samba-4.0.3.tar.gz
+SourceURL: http://ftp.samba.org/pub/samba http://ftp.samba.org/pub/samba/old-versions
+License: GPLv3
+LicenseFiles: COPYING
+Section: net
+Architecture: ib42x0
+Installed-Size: 1623384
+Filename: samba4-server_4.0.3-1_ib42x0.ipk
+Size: 1605385
+MD5Sum: 659776ceb39c4cb459c4006e44f8ff17
+Description:  The Samba software suite is a collection of programs that implements the
+ SMB protocol for UNIX systems, allowing you to serve files and printers to
+ Windows, NT, OS/2 and DOS clients. This protocol is sometimes also referred
+ to as the LanManager or Netbios protocol.
+
 Package: sane-backends
 Version: 1.0.23-1
 Depends: libc, librt, libpthread, sane-libs
@@ -8127,10 +9365,10 @@ SourceFile: scst-2.2.x-4725.tar.bz2
 SourceURL: https://scst.svn.sourceforge.net/svnroot/scst/branches/2.2.x
 Section: net
 Architecture: ib42x0
-Installed-Size: 44232
+Installed-Size: 44231
 Filename: scst_2.2.x-4725-1_ib42x0.ipk
-Size: 45112
-MD5Sum: e9e734fcc5fd09b7d58d66dc8691741b
+Size: 45118
+MD5Sum: 6e2bb8ce48c8442f79145f16b1ede690
 Description:  SCST open source iSCSI target
 
 Package: setserial
@@ -9417,6 +10655,18 @@ Filename: terminfo_5.9-6_ib42x0.ipk
 Size: 5543
 MD5Sum: 7cb947a8c19636add42fec00353b30e0
 Description:  Terminal Info Database (ncurses)
+
+Package: test
+Version: 1.0-1
+Depends: libc, librt, libpthread
+Source: feeds/addpack/test
+Section: test
+Architecture: ib42x0
+Installed-Size: 1649
+Filename: test_1.0-1_ib42x0.ipk
+Size: 2157
+MD5Sum: fddcdbdfcf2275b4614250e04fc9de7f
+Description:  test
 
 Package: testusb
 Version: 1
