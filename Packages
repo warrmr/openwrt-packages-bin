@@ -5858,10 +5858,10 @@ SourceFile: net-snmp-5.4.2.1.tar.gz
 SourceURL: @SF/net-snmp
 Section: libs
 Architecture: ib42x0
-Installed-Size: 324975
+Installed-Size: 324972
 Filename: libnetsnmp_5.4.2.1-5_ib42x0.ipk
-Size: 323281
-MD5Sum: b9edc53ff1225d8ab6e4334fe5894953
+Size: 323314
+MD5Sum: cf6ef21690a2940466ce67028b2c034c
 Description:  Simple Network Management Protocol (SNMP) is a widely used protocol for
  monitoring the health and welfare of network equipment (eg. routers),
  computer equipment and even devices like UPSs. Net-SNMP is a suite of
@@ -9474,10 +9474,10 @@ SourceFile: net-snmp-5.4.2.1.tar.gz
 SourceURL: @SF/net-snmp
 Section: net
 Architecture: ib42x0
-Installed-Size: 19343
+Installed-Size: 19344
 Filename: snmp-utils_5.4.2.1-5_ib42x0.ipk
-Size: 20109
-MD5Sum: 65972617afd7c7d8bc4607967f0f3779
+Size: 20105
+MD5Sum: 8a78d492c2585d402601004e5988f632
 Description:  Simple Network Management Protocol (SNMP) is a widely used protocol for
  monitoring the health and welfare of network equipment (eg. routers),
  computer equipment and even devices like UPSs. Net-SNMP is a suite of
@@ -9494,10 +9494,10 @@ SourceFile: net-snmp-5.4.2.1.tar.gz
 SourceURL: @SF/net-snmp
 Section: net
 Architecture: ib42x0
-Installed-Size: 10021
+Installed-Size: 10018
 Filename: snmpd_5.4.2.1-5_ib42x0.ipk
-Size: 10820
-MD5Sum: 6da192bf882ed1eb8110f73384edc631
+Size: 10825
+MD5Sum: 505a88b35cabb7a1b55e100976c4af3b
 Description:  Simple Network Management Protocol (SNMP) is a widely used protocol for
  monitoring the health and welfare of network equipment (eg. routers),
  computer equipment and even devices like UPSs. Net-SNMP is a suite of
